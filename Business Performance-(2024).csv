@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Region,City,Category,Product,Quantity,Unit_Price,Payment_Mode,Customer_Type,Total_Sales
+1001,"Thursday, March 28, 2024",East,Kolkata,Groceries,T-Shirt,2,2974,UPI,Returning,5948
+1002,"Friday, September 13, 2024",South,Kolkata,Groceries,Laptop,7,9906,UPI,New,69342
+1003,"Monday, March 11, 2024",South,Hyderabad,Groceries,Table,1,36961,Net Banking,New,36961
+1004,"Thursday, July 18, 2024",South,Delhi,Furniture,Laptop,8,33189,UPI,New,265512
+1005,"Saturday, February 3, 2024",South,Bangalore,Furniture,Chair,8,7213,Net Banking,Returning,57704
+1006,"Tuesday, October 8, 2024",North,Chennai,Groceries,Table,2,35627,Net Banking,Returning,71254
+1007,"Tuesday, June 18, 2024",South,Kolkata,Electronics,Chair,10,11534,UPI,New,115340
+1008,"Monday, July 29, 2024",South,Chennai,Furniture,Rice,5,7037,Cash,Returning,35185
+1009,"Sunday, March 24, 2024",South,Kolkata,Furniture,Oil,6,20786,Cash,New,124716
+1010,"Tuesday, October 1, 2024",South,Hyderabad,Groceries,Jeans,8,17527,Net Banking,New,140216
+1011,"Friday, December 20, 2024",East,Kolkata,Clothing,Rice,3,1055,Net Banking,Returning,3165
+1012,"Sunday, November 3, 2024",North,Chennai,Clothing,T-Shirt,8,12613,Card,Returning,100904
+1013,"Wednesday, August 14, 2024",East,Bangalore,Groceries,Phone,5,44279,Card,Returning,221395
+1014,"Tuesday, April 16, 2024",North,Mumbai,Electronics,Rice,8,36345,UPI,Returning,290760
+1015,"Sunday, May 26, 2024",North,Chennai,Furniture,Jeans,10,48343,Cash,New,483430
+1016,"Saturday, December 7, 2024",East,Delhi,Electronics,Oil,2,6496,Net Banking,Returning,12992
+1017,"Saturday, September 7, 2024",South,Kolkata,Electronics,Laptop,6,28522,Net Banking,Returning,171132
+1018,"Sunday, April 28, 2024",South,Delhi,Electronics,Rice,9,23442,Card,Returning,210978
+1019,"Thursday, March 7, 2024",South,Kolkata,Electronics,Laptop,7,40583,Cash,Returning,284081
+1020,"Thursday, August 29, 2024",North,Mumbai,Furniture,Oil,5,37507,Net Banking,Returning,187535
+1021,"Thursday, July 11, 2024",North,Delhi,Furniture,T-Shirt,6,22809,UPI,New,136854
+1022,"Tuesday, April 9, 2024",South,Kolkata,Furniture,Chair,2,34746,Card,Returning,69492
+1023,"Tuesday, December 3, 2024",East,Mumbai,Electronics,Table,9,49327,Card,Returning,443943
+1024,"Tuesday, October 1, 2024",North,Hyderabad,Clothing,Rice,1,3100,UPI,New,3100
+1025,"Friday, June 21, 2024",West,Delhi,Groceries,Chair,9,3368,UPI,Returning,30312
+1026,"Sunday, July 28, 2024",East,Delhi,Groceries,Rice,7,35268,Net Banking,Returning,246876
+1027,"Saturday, February 10, 2024",South,Mumbai,Clothing,T-Shirt,2,29683,Cash,New,59366
+1028,"Monday, June 3, 2024",North,Delhi,Furniture,Jeans,9,1693,Net Banking,Returning,15237
+1029,"Saturday, January 6, 2024",East,Mumbai,Groceries,Jeans,5,22102,Cash,New,110510
+1030,"Sunday, June 9, 2024",West,Kolkata,Groceries,Table,3,37075,Cash,New,111225
+1031,"Saturday, August 24, 2024",North,Bangalore,Electronics,Oil,2,36358,UPI,New,72716
+1032,"Saturday, October 26, 2024",West,Kolkata,Clothing,Table,3,10894,UPI,New,32682
+1033,"Sunday, March 10, 2024",West,Chennai,Furniture,Rice,8,36166,UPI,Returning,289328
+1034,"Monday, January 15, 2024",North,Mumbai,Furniture,Rice,4,10555,Cash,New,42220
+1035,"Tuesday, April 23, 2024",South,Chennai,Electronics,Rice,6,9876,UPI,Returning,59256
+1036,"Saturday, January 27, 2024",South,Delhi,Furniture,Oil,1,709,Card,New,709
+1037,"Tuesday, October 15, 2024",West,Kolkata,Groceries,Jeans,6,48391,Net Banking,New,290346
+1038,"Saturday, May 11, 2024",North,Hyderabad,Electronics,Jeans,9,20123,Card,Returning,181107
+1039,"Monday, May 27, 2024",East,Hyderabad,Furniture,Phone,2,39100,Card,Returning,78200
+1040,"Wednesday, October 16, 2024",East,Kolkata,Electronics,Laptop,2,5984,Cash,Returning,11968
+1041,"Monday, July 8, 2024",West,Kolkata,Groceries,T-Shirt,8,3894,Cash,New,31152
+1042,"Wednesday, November 27, 2024",South,Chennai,Electronics,Jeans,2,5453,Net Banking,New,10906
+1043,"Friday, March 1, 2024",South,Delhi,Electronics,Phone,1,26664,UPI,Returning,26664
+1044,"Wednesday, October 30, 2024",West,Hyderabad,Furniture,T-Shirt,10,28880,Net Banking,Returning,288800
+1045,"Saturday, November 30, 2024",West,Kolkata,Clothing,Rice,9,2470,Cash,Returning,22230
+1046,"Saturday, May 18, 2024",West,Mumbai,Clothing,Rice,7,38339,Card,New,268373
+1047,"Wednesday, July 31, 2024",East,Kolkata,Furniture,Oil,9,34902,Card,New,314118
+1048,"Monday, September 30, 2024",West,Hyderabad,Clothing,Rice,8,42996,Card,New,343968
+1049,"Monday, December 9, 2024",South,Kolkata,Electronics,Jeans,8,3415,Card,Returning,27320
+1050,"Monday, December 2, 2024",East,Hyderabad,Furniture,Phone,1,8156,Cash,New,8156
+1051,"Saturday, January 20, 2024",South,Chennai,Furniture,Phone,5,25511,Cash,New,127555
+1052,"Sunday, June 16, 2024",South,Chennai,Furniture,Phone,9,42797,Net Banking,New,385173
+1053,"Monday, September 16, 2024",South,Delhi,Groceries,Oil,9,39443,UPI,Returning,354987
+1054,"Wednesday, January 10, 2024",South,Mumbai,Electronics,Table,3,25332,Card,New,75996
+1055,"Saturday, September 7, 2024",North,Delhi,Groceries,Rice,5,13773,Card,Returning,68865
+1056,"Saturday, November 30, 2024",West,Delhi,Electronics,Oil,7,20965,Cash,New,146755
+1057,"Wednesday, April 17, 2024",East,Hyderabad,Furniture,Laptop,6,29206,Net Banking,New,175236
+1058,"Tuesday, June 25, 2024",East,Bangalore,Electronics,Jeans,2,3370,Net Banking,Returning,6740
+1059,"Monday, August 12, 2024",North,Hyderabad,Furniture,Oil,9,16923,UPI,Returning,152307
+1060,"Monday, April 15, 2024",South,Kolkata,Electronics,Table,10,49991,UPI,New,499910
+1061,"Monday, December 16, 2024",North,Bangalore,Electronics,Laptop,7,29890,Card,New,209230
+1062,"Sunday, July 21, 2024",North,Bangalore,Groceries,Chair,7,29759,Card,Returning,208313
+1063,"Thursday, September 19, 2024",South,Kolkata,Furniture,T-Shirt,3,27294,Net Banking,New,81882
+1064,"Friday, August 9, 2024",South,Chennai,Electronics,T-Shirt,3,6109,UPI,New,18327
+1065,"Friday, September 13, 2024",West,Hyderabad,Clothing,Jeans,9,3777,Card,Returning,33993
+1066,"Monday, June 3, 2024",North,Kolkata,Clothing,Phone,1,44238,Card,New,44238
+1067,"Monday, September 23, 2024",South,Mumbai,Clothing,Oil,9,26510,Cash,New,238590
+1068,"Tuesday, October 8, 2024",South,Chennai,Clothing,T-Shirt,2,18447,Net Banking,New,36894
+1069,"Wednesday, November 13, 2024",East,Hyderabad,Clothing,Oil,1,33078,Cash,Returning,33078
+1070,"Monday, June 10, 2024",North,Hyderabad,Furniture,Table,8,25094,Card,New,200752
+1071,"Saturday, December 14, 2024",West,Hyderabad,Clothing,T-Shirt,10,33244,Card,New,332440
+1072,"Sunday, July 7, 2024",South,Kolkata,Furniture,Rice,7,26297,Card,New,184079
+1073,"Wednesday, May 8, 2024",West,Delhi,Groceries,T-Shirt,3,29833,Card,Returning,89499
+1074,"Tuesday, July 2, 2024",North,Kolkata,Furniture,Chair,5,36734,Cash,Returning,183670
+1075,"Thursday, April 11, 2024",East,Bangalore,Clothing,Phone,1,47176,Card,New,47176
+1076,"Thursday, September 5, 2024",West,Kolkata,Furniture,Table,1,34006,UPI,Returning,34006
+1077,"Monday, December 9, 2024",East,Delhi,Furniture,Laptop,8,11458,Cash,New,91664
+1078,"Monday, May 6, 2024",West,Kolkata,Groceries,Rice,3,11262,Card,New,33786
+1079,"Sunday, August 4, 2024",North,Delhi,Furniture,Oil,4,4695,Cash,New,18780
+1080,"Tuesday, May 7, 2024",South,Hyderabad,Electronics,Chair,8,40994,Net Banking,New,327952
+1081,"Sunday, September 22, 2024",East,Hyderabad,Furniture,T-Shirt,3,13912,Cash,Returning,41736
+1082,"Sunday, January 14, 2024",South,Bangalore,Furniture,Oil,4,29063,Cash,New,116252
+1083,"Thursday, June 20, 2024",West,Chennai,Furniture,Laptop,9,19305,Card,New,173745
+1084,"Monday, March 18, 2024",South,Kolkata,Groceries,T-Shirt,10,38988,UPI,Returning,389880
+1085,"Thursday, November 7, 2024",North,Bangalore,Clothing,Chair,7,3818,Card,New,26726
+1086,"Wednesday, February 28, 2024",South,Bangalore,Clothing,Jeans,10,38447,Cash,New,384470
+1087,"Sunday, December 15, 2024",South,Bangalore,Electronics,Oil,4,45082,UPI,New,180328
+1088,"Wednesday, May 15, 2024",South,Bangalore,Groceries,Laptop,10,43402,Card,Returning,434020
+1089,"Monday, February 19, 2024",North,Hyderabad,Clothing,Table,8,15532,UPI,Returning,124256
+1090,"Monday, December 23, 2024",South,Delhi,Groceries,Rice,9,8768,UPI,New,78912
+1091,"Saturday, November 9, 2024",South,Delhi,Clothing,Phone,9,2665,Card,Returning,23985
+1092,"Friday, February 2, 2024",North,Chennai,Electronics,T-Shirt,10,20654,Card,Returning,206540
+1093,"Sunday, March 17, 2024",North,Bangalore,Electronics,T-Shirt,8,1400,UPI,Returning,11200
+1094,"Wednesday, May 22, 2024",West,Hyderabad,Electronics,T-Shirt,7,41167,Cash,New,288169
+1095,"Saturday, October 19, 2024",South,Mumbai,Clothing,Laptop,5,9267,Net Banking,New,46335
+1096,"Sunday, September 29, 2024",East,Mumbai,Groceries,T-Shirt,1,8187,Card,Returning,8187
+1097,"Saturday, April 20, 2024",West,Delhi,Furniture,Rice,5,37175,Cash,New,185875
+1098,"Thursday, June 20, 2024",East,Hyderabad,Clothing,Laptop,4,46207,Net Banking,Returning,184828
+1099,"Saturday, November 30, 2024",South,Mumbai,Electronics,Laptop,4,42622,Card,New,170488
+1100,"Saturday, July 6, 2024",South,Hyderabad,Clothing,Phone,7,9060,Net Banking,Returning,63420
+1101,"Tuesday, January 9, 2024",North,Bangalore,Electronics,Oil,5,34850,Cash,New,174250
+1102,"Sunday, July 7, 2024",South,Bangalore,Clothing,Chair,2,12143,UPI,New,24286
+1103,"Thursday, March 14, 2024",East,Mumbai,Clothing,Jeans,5,10438,UPI,Returning,52190
+1104,"Tuesday, September 10, 2024",East,Hyderabad,Groceries,Rice,7,48063,Card,New,336441
+1105,"Tuesday, July 9, 2024",East,Delhi,Clothing,Phone,6,17753,Card,New,106518
+1106,"Monday, April 1, 2024",South,Hyderabad,Clothing,T-Shirt,3,11294,Net Banking,New,33882
+1107,"Wednesday, October 2, 2024",East,Bangalore,Clothing,Laptop,4,4471,Cash,New,17884
+1108,"Friday, October 25, 2024",East,Delhi,Electronics,T-Shirt,4,9218,Card,Returning,36872
+1109,"Saturday, October 26, 2024",East,Delhi,Furniture,Laptop,4,46801,Net Banking,Returning,187204
+1110,"Sunday, October 27, 2024",South,Bangalore,Clothing,Oil,1,46059,Cash,New,46059
+1111,"Saturday, January 20, 2024",East,Chennai,Electronics,Rice,10,7404,Card,Returning,74040
+1112,"Wednesday, April 10, 2024",South,Hyderabad,Groceries,Laptop,10,4222,Net Banking,New,42220
+1113,"Wednesday, November 13, 2024",West,Delhi,Furniture,T-Shirt,1,45699,UPI,New,45699
+1114,"Saturday, June 29, 2024",West,Kolkata,Clothing,Jeans,5,15855,UPI,Returning,79275
+1115,"Wednesday, July 10, 2024",West,Hyderabad,Clothing,Laptop,5,28636,Cash,Returning,143180
+1116,"Thursday, February 15, 2024",East,Kolkata,Clothing,Rice,10,36368,UPI,New,363680
+1117,"Tuesday, August 20, 2024",West,Delhi,Electronics,Jeans,2,31758,UPI,Returning,63516
+1118,"Tuesday, August 27, 2024",East,Hyderabad,Clothing,Rice,4,42962,UPI,Returning,171848
+1119,"Monday, October 7, 2024",South,Delhi,Electronics,Phone,2,7777,UPI,New,15554
+1120,"Tuesday, September 3, 2024",East,Hyderabad,Clothing,Chair,1,44422,Cash,New,44422
+1121,"Sunday, February 25, 2024",South,Delhi,Groceries,Phone,7,25963,Net Banking,Returning,181741
+1122,"Saturday, October 12, 2024",West,Delhi,Electronics,Phone,9,25244,Net Banking,Returning,227196
+1123,"Wednesday, April 24, 2024",West,Bangalore,Groceries,Jeans,1,7357,Cash,Returning,7357
+1124,"Tuesday, March 19, 2024",West,Hyderabad,Electronics,Chair,2,25721,Card,Returning,51442
+1125,"Tuesday, December 17, 2024",South,Mumbai,Groceries,Phone,10,42746,Net Banking,Returning,427460
+1126,"Wednesday, August 21, 2024",South,Kolkata,Clothing,Table,4,8981,Card,Returning,35924
+1127,"Tuesday, April 9, 2024",North,Chennai,Electronics,Oil,3,13459,UPI,Returning,40377
+1128,"Monday, November 11, 2024",North,Delhi,Clothing,Laptop,9,16305,Net Banking,Returning,146745
+1129,"Monday, May 6, 2024",North,Bangalore,Furniture,T-Shirt,5,49941,Cash,Returning,249705
+1130,"Friday, March 15, 2024",South,Hyderabad,Groceries,T-Shirt,3,18855,Card,New,56565
+1131,"Saturday, October 19, 2024",South,Mumbai,Clothing,T-Shirt,8,16962,Net Banking,Returning,135696
+1132,"Thursday, July 11, 2024",East,Mumbai,Clothing,Laptop,10,23028,Card,New,230280
+1133,"Monday, December 30, 2024",North,Chennai,Furniture,Table,4,30844,Net Banking,Returning,123376
+1134,"Tuesday, September 17, 2024",East,Bangalore,Groceries,Oil,9,41447,Net Banking,Returning,373023
+1135,"Saturday, February 17, 2024",West,Delhi,Groceries,Chair,4,38676,Net Banking,New,154704
+1136,"Wednesday, January 17, 2024",North,Kolkata,Clothing,Oil,3,17465,Net Banking,New,52395
+1137,"Thursday, July 25, 2024",South,Delhi,Groceries,T-Shirt,10,9074,Card,New,90740
+1138,"Thursday, July 11, 2024",South,Kolkata,Electronics,Rice,10,37068,UPI,New,370680
+1139,"Sunday, January 14, 2024",West,Hyderabad,Groceries,T-Shirt,1,26588,Net Banking,Returning,26588
+1140,"Monday, September 16, 2024",South,Bangalore,Groceries,Chair,7,41551,Card,New,290857
+1141,"Tuesday, April 16, 2024",South,Bangalore,Clothing,Table,9,27547,UPI,New,247923
+1142,"Monday, December 16, 2024",East,Delhi,Furniture,Rice,2,6877,UPI,Returning,13754
+1143,"Friday, March 29, 2024",North,Delhi,Clothing,Table,10,24823,UPI,Returning,248230
+1144,"Thursday, March 28, 2024",South,Kolkata,Groceries,Laptop,9,10097,Net Banking,Returning,90873
+1145,"Saturday, November 2, 2024",South,Kolkata,Furniture,Table,5,41492,Net Banking,Returning,207460
+1146,"Thursday, October 10, 2024",West,Chennai,Groceries,Chair,8,5735,UPI,Returning,45880
+1147,"Thursday, August 15, 2024",South,Hyderabad,Electronics,Phone,7,18311,Net Banking,Returning,128177
+1148,"Tuesday, August 20, 2024",South,Mumbai,Electronics,Laptop,7,30275,Cash,New,211925
+1149,"Tuesday, May 28, 2024",South,Chennai,Furniture,Rice,8,31934,Card,Returning,255472
+1150,"Saturday, March 16, 2024",East,Delhi,Electronics,Laptop,2,10726,Cash,New,21452
+1151,"Wednesday, October 23, 2024",South,Chennai,Furniture,Laptop,4,30844,Net Banking,Returning,123376
+1152,"Wednesday, January 31, 2024",South,Delhi,Furniture,Jeans,4,46371,Cash,New,185484
+1153,"Thursday, May 23, 2024",East,Kolkata,Electronics,Jeans,8,11196,Cash,Returning,89568
+1154,"Friday, September 6, 2024",North,Mumbai,Furniture,Phone,1,35933,Net Banking,Returning,35933
+1155,"Thursday, September 5, 2024",North,Mumbai,Groceries,Chair,8,7154,Cash,Returning,57232
+1156,"Friday, August 30, 2024",North,Mumbai,Groceries,Table,3,775,UPI,Returning,2325
+1157,"Tuesday, October 8, 2024",West,Mumbai,Clothing,T-Shirt,3,19086,Card,Returning,57258
+1158,"Friday, November 22, 2024",West,Chennai,Clothing,Table,4,7242,Card,Returning,28968
+1159,"Wednesday, July 10, 2024",South,Mumbai,Furniture,Chair,4,21660,UPI,New,86640
+1160,"Thursday, December 5, 2024",West,Chennai,Electronics,Rice,2,13400,Card,New,26800
+1161,"Friday, October 25, 2024",East,Hyderabad,Electronics,T-Shirt,9,28965,UPI,Returning,260685
+1162,"Wednesday, December 4, 2024",West,Kolkata,Groceries,Jeans,7,35211,Card,Returning,246477
+1163,"Monday, August 26, 2024",West,Chennai,Groceries,Oil,7,14677,Net Banking,Returning,102739
+1164,"Monday, February 5, 2024",North,Bangalore,Furniture,Rice,7,9635,Net Banking,New,67445
+1165,"Sunday, November 17, 2024",West,Mumbai,Clothing,Oil,8,19221,Cash,Returning,153768
+1166,"Tuesday, May 14, 2024",West,Kolkata,Furniture,Table,2,22907,Net Banking,Returning,45814
+1167,"Wednesday, October 16, 2024",South,Bangalore,Groceries,Oil,5,11824,UPI,Returning,59120
+1168,"Friday, August 23, 2024",North,Chennai,Groceries,Phone,5,9797,UPI,Returning,48985
+1169,"Saturday, January 20, 2024",West,Hyderabad,Clothing,Table,5,44429,Net Banking,New,222145
+1170,"Thursday, January 25, 2024",South,Delhi,Groceries,Chair,10,2454,Card,New,24540
+1171,"Wednesday, July 10, 2024",East,Kolkata,Groceries,Jeans,2,34240,Card,Returning,68480
+1172,"Tuesday, January 9, 2024",East,Kolkata,Electronics,Laptop,2,19971,Card,Returning,39942
+1173,"Tuesday, October 15, 2024",South,Chennai,Groceries,Jeans,8,19135,Cash,New,153080
+1174,"Monday, July 15, 2024",West,Bangalore,Electronics,Phone,3,46998,UPI,New,140994
+1175,"Monday, September 16, 2024",East,Chennai,Electronics,T-Shirt,8,7083,UPI,Returning,56664
+1176,"Tuesday, July 2, 2024",East,Hyderabad,Electronics,Oil,10,17820,Cash,New,178200
+1177,"Friday, August 2, 2024",South,Kolkata,Electronics,Chair,5,14954,UPI,New,74770
+1178,"Saturday, April 13, 2024",North,Hyderabad,Clothing,Rice,10,24727,Net Banking,New,247270
+1179,"Friday, January 19, 2024",East,Chennai,Groceries,T-Shirt,1,31403,Net Banking,New,31403
+1180,"Monday, September 9, 2024",South,Kolkata,Electronics,Rice,3,47632,UPI,New,142896
+1181,"Saturday, April 27, 2024",North,Bangalore,Clothing,Chair,10,23962,Card,New,239620
+1182,"Thursday, June 20, 2024",East,Hyderabad,Clothing,Table,5,33193,UPI,Returning,165965
+1183,"Tuesday, February 6, 2024",East,Delhi,Groceries,Rice,4,39120,UPI,New,156480
+1184,"Sunday, May 12, 2024",East,Mumbai,Clothing,Oil,8,33750,Net Banking,New,270000
+1185,"Thursday, April 4, 2024",East,Hyderabad,Electronics,Rice,1,36212,Card,Returning,36212
+1186,"Friday, March 1, 2024",South,Bangalore,Clothing,Chair,10,14468,UPI,Returning,144680
+1187,"Tuesday, December 17, 2024",East,Hyderabad,Clothing,Oil,7,41561,Net Banking,Returning,290927
+1188,"Tuesday, January 16, 2024",North,Delhi,Electronics,Phone,9,5433,UPI,New,48897
+1189,"Sunday, December 15, 2024",West,Delhi,Groceries,Rice,8,24523,Net Banking,Returning,196184
+1190,"Monday, September 16, 2024",West,Bangalore,Groceries,Phone,6,43733,UPI,Returning,262398
+1191,"Wednesday, May 15, 2024",East,Bangalore,Electronics,Oil,10,45419,UPI,New,454190
+1192,"Thursday, June 13, 2024",North,Mumbai,Electronics,T-Shirt,7,25984,Net Banking,New,181888
+1193,"Friday, May 31, 2024",South,Kolkata,Groceries,Phone,7,32009,Net Banking,Returning,224063
+1194,"Monday, November 4, 2024",West,Mumbai,Clothing,Chair,5,49850,Cash,New,249250
+1195,"Friday, March 8, 2024",East,Delhi,Furniture,Chair,9,37577,Cash,New,338193
+1196,"Friday, October 4, 2024",West,Mumbai,Clothing,Phone,6,38497,UPI,New,230982
+1197,"Friday, July 19, 2024",East,Mumbai,Furniture,Phone,6,20875,Card,New,125250
+1198,"Tuesday, April 23, 2024",East,Chennai,Furniture,Rice,10,11586,Net Banking,Returning,115860
+1199,"Wednesday, December 18, 2024",West,Delhi,Clothing,Rice,2,42695,UPI,New,85390
+1200,"Wednesday, November 20, 2024",South,Kolkata,Furniture,Phone,10,16271,Card,Returning,162710
+1201,"Wednesday, June 5, 2024",West,Bangalore,Groceries,Table,4,4530,Cash,New,18120
+1202,"Thursday, March 7, 2024",East,Hyderabad,Groceries,Chair,10,23015,Net Banking,Returning,230150
+1203,"Wednesday, May 1, 2024",East,Bangalore,Furniture,Rice,9,11745,Card,Returning,105705
+1204,"Wednesday, February 21, 2024",East,Kolkata,Furniture,Jeans,7,40919,Cash,Returning,286433
+1205,"Thursday, September 5, 2024",South,Kolkata,Clothing,Oil,1,9030,UPI,New,9030
+1206,"Tuesday, November 19, 2024",West,Delhi,Furniture,Jeans,8,18093,Cash,Returning,144744
+1207,"Monday, September 2, 2024",East,Kolkata,Electronics,Table,8,46620,Net Banking,Returning,372960
+1208,"Thursday, June 13, 2024",South,Mumbai,Clothing,Oil,5,13145,Cash,New,65725
+1209,"Wednesday, February 7, 2024",South,Chennai,Electronics,T-Shirt,9,45904,UPI,Returning,413136
+1210,"Thursday, December 19, 2024",East,Chennai,Furniture,Table,10,23302,Cash,New,233020
+1211,"Tuesday, April 30, 2024",South,Bangalore,Clothing,Chair,9,9080,UPI,Returning,81720
+1212,"Friday, March 29, 2024",West,Mumbai,Furniture,Chair,5,18803,Cash,New,94015
+1213,"Thursday, December 12, 2024",South,Mumbai,Electronics,Laptop,2,5814,Cash,Returning,11628
+1214,"Friday, March 29, 2024",East,Hyderabad,Clothing,Rice,1,19642,Cash,New,19642
+1215,"Monday, May 20, 2024",South,Mumbai,Furniture,Table,3,41056,Net Banking,New,123168
+1216,"Monday, February 12, 2024",South,Hyderabad,Furniture,Chair,9,45553,UPI,New,409977
+1217,"Friday, September 27, 2024",East,Delhi,Clothing,Rice,10,25248,Cash,Returning,252480
+1218,"Saturday, December 28, 2024",South,Chennai,Clothing,Rice,6,30333,Cash,Returning,181998
+1219,"Saturday, May 25, 2024",North,Delhi,Clothing,Phone,3,48475,Cash,Returning,145425
+1220,"Monday, January 1, 2024",West,Delhi,Electronics,Table,2,18384,Card,New,36768
+1221,"Tuesday, March 12, 2024",East,Kolkata,Clothing,Rice,7,38785,UPI,New,271495
+1222,"Tuesday, August 6, 2024",South,Bangalore,Electronics,Chair,3,26989,Cash,New,80967
+1223,"Sunday, October 13, 2024",West,Bangalore,Clothing,Laptop,4,9932,Cash,New,39728
+1224,"Tuesday, January 9, 2024",West,Delhi,Furniture,Chair,1,41514,Cash,New,41514
+1225,"Sunday, February 18, 2024",West,Bangalore,Groceries,Phone,3,26566,Cash,New,79698
+1226,"Thursday, March 7, 2024",West,Hyderabad,Furniture,Oil,1,17113,UPI,Returning,17113
+1227,"Tuesday, July 23, 2024",West,Delhi,Furniture,Laptop,9,878,Net Banking,New,7902
+1228,"Sunday, June 23, 2024",East,Hyderabad,Groceries,Laptop,3,13969,Net Banking,New,41907
+1229,"Thursday, November 21, 2024",East,Chennai,Electronics,Rice,2,26089,Cash,Returning,52178
+1230,"Tuesday, April 2, 2024",North,Mumbai,Groceries,T-Shirt,3,26308,Card,New,78924
+1231,"Saturday, July 27, 2024",East,Chennai,Electronics,Laptop,6,48025,Net Banking,New,288150
+1232,"Saturday, June 22, 2024",South,Delhi,Electronics,Oil,1,36430,Cash,New,36430
+1233,"Thursday, May 23, 2024",South,Hyderabad,Furniture,Phone,8,1542,UPI,New,12336
+1234,"Sunday, September 1, 2024",South,Mumbai,Clothing,Chair,8,49149,Cash,Returning,393192
+1235,"Thursday, February 1, 2024",North,Hyderabad,Furniture,Table,3,47440,UPI,Returning,142320
+1236,"Sunday, October 20, 2024",South,Delhi,Groceries,Oil,4,13206,Card,New,52824
+1237,"Wednesday, April 24, 2024",North,Delhi,Clothing,Oil,1,22466,Net Banking,Returning,22466
+1238,"Monday, September 30, 2024",West,Kolkata,Groceries,Phone,5,46287,Net Banking,Returning,231435
+1239,"Monday, April 8, 2024",South,Delhi,Furniture,Laptop,1,5847,Cash,Returning,5847
+1240,"Friday, October 18, 2024",East,Hyderabad,Groceries,Chair,6,2437,Net Banking,Returning,14622
+1241,"Sunday, March 10, 2024",East,Kolkata,Groceries,Chair,9,32760,UPI,Returning,294840
+1242,"Monday, November 25, 2024",West,Mumbai,Clothing,T-Shirt,6,44506,UPI,New,267036
+1243,"Thursday, January 11, 2024",South,Chennai,Furniture,Laptop,3,25904,Net Banking,New,77712
+1244,"Monday, April 29, 2024",West,Kolkata,Groceries,Table,9,45438,Cash,New,408942
+1245,"Thursday, September 5, 2024",North,Delhi,Clothing,Rice,7,19745,UPI,New,138215
+1246,"Wednesday, June 12, 2024",East,Bangalore,Electronics,Chair,8,35262,Card,Returning,282096
+1247,"Sunday, June 2, 2024",South,Mumbai,Groceries,Phone,1,42007,UPI,Returning,42007
+1248,"Saturday, October 26, 2024",West,Bangalore,Electronics,Table,8,19946,Net Banking,Returning,159568
+1249,"Saturday, March 9, 2024",North,Delhi,Clothing,Chair,5,6038,Net Banking,Returning,30190
+1250,"Wednesday, June 12, 2024",South,Kolkata,Furniture,Chair,6,45047,Net Banking,New,270282
+1251,"Sunday, February 18, 2024",East,Hyderabad,Groceries,Laptop,9,19883,Net Banking,Returning,178947
+1252,"Monday, July 22, 2024",East,Bangalore,Groceries,Chair,6,27122,Card,New,162732
+1253,"Monday, November 25, 2024",South,Hyderabad,Groceries,Table,2,5420,Net Banking,New,10840
+1254,"Friday, April 5, 2024",West,Mumbai,Electronics,Table,6,46303,Net Banking,New,277818
+1255,"Monday, July 8, 2024",East,Mumbai,Electronics,T-Shirt,5,8427,UPI,New,42135
+1256,"Tuesday, June 25, 2024",North,Delhi,Electronics,Chair,5,28914,Cash,Returning,144570
+1257,"Tuesday, March 26, 2024",South,Delhi,Electronics,Chair,1,39416,Card,Returning,39416
+1258,"Thursday, October 24, 2024",West,Delhi,Furniture,Jeans,1,26625,UPI,New,26625
+1259,"Friday, September 20, 2024",South,Mumbai,Furniture,Jeans,5,3596,Cash,Returning,17980
+1260,"Tuesday, February 13, 2024",South,Bangalore,Groceries,Chair,3,3956,UPI,Returning,11868
+1261,"Friday, January 26, 2024",South,Kolkata,Groceries,Laptop,4,39928,Net Banking,New,159712
+1262,"Tuesday, December 10, 2024",East,Hyderabad,Groceries,Chair,4,38769,Net Banking,Returning,155076
+1263,"Monday, August 19, 2024",South,Chennai,Groceries,Phone,5,40506,Cash,New,202530
+1264,"Friday, August 23, 2024",West,Chennai,Furniture,Chair,6,33228,Net Banking,New,199368
+1265,"Saturday, February 24, 2024",East,Bangalore,Furniture,T-Shirt,2,13715,Net Banking,New,27430
+1266,"Tuesday, January 30, 2024",North,Mumbai,Groceries,T-Shirt,7,35963,Cash,Returning,251741
+1267,"Sunday, March 31, 2024",East,Chennai,Electronics,Jeans,7,18610,Card,New,130270
+1268,"Wednesday, May 29, 2024",East,Kolkata,Clothing,T-Shirt,3,13088,Net Banking,Returning,39264
+1269,"Monday, December 9, 2024",East,Chennai,Groceries,Table,7,5156,UPI,Returning,36092
+1270,"Sunday, April 28, 2024",West,Chennai,Furniture,Chair,5,13956,Cash,New,69780
+1271,"Monday, March 25, 2024",West,Bangalore,Furniture,Phone,8,5563,Card,New,44504
+1272,"Monday, June 24, 2024",South,Kolkata,Furniture,Table,2,43012,UPI,Returning,86024
+1273,"Saturday, September 28, 2024",South,Bangalore,Groceries,Table,5,11780,Net Banking,New,58900
+1274,"Tuesday, August 20, 2024",South,Kolkata,Furniture,T-Shirt,2,49221,Cash,New,98442
+1275,"Saturday, May 4, 2024",West,Delhi,Electronics,Rice,6,8720,Cash,New,52320
+1276,"Wednesday, April 24, 2024",East,Mumbai,Electronics,Jeans,5,39437,Cash,Returning,197185
+1277,"Friday, May 10, 2024",East,Bangalore,Clothing,Phone,5,9960,Card,New,49800
+1278,"Saturday, January 27, 2024",North,Kolkata,Electronics,Chair,4,20031,Cash,New,80124
+1279,"Friday, November 15, 2024",South,Bangalore,Furniture,Chair,4,45154,Net Banking,New,180616
+1280,"Wednesday, December 4, 2024",West,Mumbai,Furniture,Chair,1,46184,Cash,Returning,46184
+1281,"Sunday, October 13, 2024",North,Delhi,Furniture,Oil,4,20140,Cash,New,80560
+1282,"Thursday, March 14, 2024",West,Kolkata,Furniture,Laptop,3,4424,Card,New,13272
+1283,"Wednesday, May 8, 2024",East,Chennai,Electronics,Table,2,7044,Cash,Returning,14088
+1284,"Thursday, November 14, 2024",North,Delhi,Groceries,Jeans,6,24720,Cash,New,148320
+1285,"Tuesday, October 22, 2024",East,Delhi,Groceries,Rice,3,22338,UPI,Returning,67014
+1286,"Friday, November 8, 2024",North,Chennai,Clothing,Table,5,10497,Net Banking,Returning,52485
+1287,"Sunday, November 10, 2024",North,Chennai,Clothing,Oil,4,43444,Card,New,173776
+1288,"Saturday, December 7, 2024",East,Delhi,Electronics,Chair,2,47874,Card,Returning,95748
+1289,"Wednesday, October 16, 2024",North,Delhi,Clothing,Laptop,10,16787,Net Banking,New,167870
+1290,"Thursday, June 13, 2024",North,Bangalore,Groceries,Rice,6,14996,Net Banking,New,89976
+1291,"Monday, October 21, 2024",East,Hyderabad,Electronics,Jeans,1,30892,UPI,Returning,30892
+1292,"Monday, December 23, 2024",East,Kolkata,Furniture,Table,10,16886,Cash,Returning,168860
+1293,"Wednesday, February 28, 2024",South,Kolkata,Furniture,Chair,10,11595,UPI,Returning,115950
+1294,"Wednesday, April 24, 2024",East,Delhi,Electronics,Laptop,6,9170,Card,Returning,55020
+1295,"Thursday, December 5, 2024",North,Bangalore,Groceries,Table,5,10818,Cash,New,54090
+1296,"Wednesday, March 13, 2024",East,Chennai,Furniture,Phone,10,37529,Net Banking,New,375290
+1297,"Saturday, October 26, 2024",East,Kolkata,Clothing,T-Shirt,4,32253,Card,Returning,129012
+1298,"Sunday, December 8, 2024",West,Bangalore,Furniture,Oil,8,13160,UPI,Returning,105280
+1299,"Wednesday, January 17, 2024",South,Chennai,Furniture,Chair,3,43985,Net Banking,New,131955
+1300,"Wednesday, October 16, 2024",North,Chennai,Electronics,Rice,8,1237,Card,New,9896
+1301,"Sunday, October 20, 2024",West,Mumbai,Furniture,T-Shirt,6,34485,Cash,Returning,206910
+1302,"Monday, February 12, 2024",North,Mumbai,Clothing,Jeans,10,45882,UPI,Returning,458820
+1303,"Tuesday, March 26, 2024",South,Chennai,Furniture,Table,9,6936,Card,Returning,62424
+1304,"Tuesday, March 5, 2024",South,Delhi,Clothing,T-Shirt,3,33869,Cash,Returning,101607
+1305,"Tuesday, October 22, 2024",West,Mumbai,Clothing,Oil,10,22712,Net Banking,New,227120
+1306,"Monday, January 1, 2024",East,Delhi,Clothing,Jeans,6,4143,Net Banking,Returning,24858
+1307,"Thursday, August 29, 2024",South,Mumbai,Groceries,T-Shirt,5,20795,Cash,New,103975
+1308,"Thursday, December 12, 2024",North,Hyderabad,Clothing,Oil,3,16856,Net Banking,New,50568
+1309,"Monday, July 29, 2024",North,Delhi,Groceries,Laptop,10,21219,Card,Returning,212190
+1310,"Tuesday, February 6, 2024",East,Mumbai,Groceries,Rice,10,34286,Net Banking,Returning,342860
+1311,"Saturday, November 9, 2024",West,Delhi,Clothing,Jeans,5,40387,UPI,New,201935
+1312,"Thursday, December 26, 2024",East,Delhi,Clothing,Laptop,10,1998,Net Banking,New,19980
+1313,"Tuesday, July 23, 2024",North,Delhi,Electronics,Rice,8,47185,Cash,Returning,377480
+1314,"Friday, March 22, 2024",West,Kolkata,Furniture,Chair,6,35156,Cash,Returning,210936
+1315,"Saturday, April 6, 2024",West,Hyderabad,Furniture,Phone,7,8087,UPI,New,56609
+1316,"Sunday, January 28, 2024",South,Bangalore,Electronics,Jeans,9,3502,Cash,Returning,31518
+1317,"Monday, November 11, 2024",South,Kolkata,Electronics,Rice,1,31858,Cash,New,31858
+1318,"Saturday, August 31, 2024",South,Hyderabad,Electronics,T-Shirt,7,47982,Card,Returning,335874
+1319,"Tuesday, February 13, 2024",North,Chennai,Furniture,Laptop,3,21558,Card,New,64674
+1320,"Wednesday, July 31, 2024",West,Bangalore,Electronics,Rice,8,39946,UPI,Returning,319568
+1321,"Thursday, September 5, 2024",South,Kolkata,Furniture,Oil,1,43772,Cash,Returning,43772
+1322,"Sunday, April 14, 2024",East,Hyderabad,Electronics,Phone,7,30091,Net Banking,Returning,210637
+1323,"Sunday, August 25, 2024",East,Mumbai,Electronics,Table,2,2161,Card,New,4322
+1324,"Saturday, February 3, 2024",West,Bangalore,Clothing,Laptop,10,31491,Cash,New,314910
+1325,"Thursday, October 10, 2024",South,Delhi,Electronics,Chair,8,26820,Card,Returning,214560
+1326,"Wednesday, September 25, 2024",West,Chennai,Clothing,Oil,2,36435,Cash,Returning,72870
+1327,"Wednesday, April 10, 2024",North,Bangalore,Electronics,Rice,6,23103,Cash,New,138618
+1328,"Sunday, November 10, 2024",South,Chennai,Clothing,T-Shirt,3,22971,Net Banking,Returning,68913
+1329,"Thursday, April 18, 2024",North,Mumbai,Electronics,Chair,8,13170,Cash,New,105360
+1330,"Wednesday, August 21, 2024",North,Hyderabad,Groceries,T-Shirt,10,42791,Cash,New,427910
+1331,"Saturday, December 28, 2024",South,Bangalore,Electronics,Table,2,30587,UPI,New,61174
+1332,"Tuesday, December 10, 2024",South,Chennai,Furniture,Laptop,10,12297,Card,Returning,122970
+1333,"Friday, August 9, 2024",South,Bangalore,Clothing,Rice,1,22666,Net Banking,New,22666
+1334,"Thursday, May 16, 2024",North,Hyderabad,Clothing,T-Shirt,4,31394,Net Banking,New,125576
+1335,"Tuesday, July 2, 2024",North,Mumbai,Groceries,Chair,1,33414,UPI,New,33414
+1336,"Friday, February 23, 2024",East,Mumbai,Clothing,Oil,10,25929,UPI,New,259290
+1337,"Monday, February 12, 2024",West,Chennai,Furniture,Chair,5,629,Card,Returning,3145
+1338,"Monday, September 30, 2024",South,Bangalore,Electronics,Jeans,2,6516,Cash,New,13032
+1339,"Thursday, August 29, 2024",West,Bangalore,Electronics,T-Shirt,3,4185,Cash,Returning,12555
+1340,"Thursday, January 11, 2024",West,Mumbai,Furniture,Laptop,10,14356,Cash,New,143560
+1341,"Thursday, February 29, 2024",East,Hyderabad,Clothing,Table,3,8465,UPI,New,25395
+1342,"Thursday, March 7, 2024",South,Kolkata,Groceries,Table,1,17857,Cash,Returning,17857
+1343,"Tuesday, November 26, 2024",North,Chennai,Electronics,Rice,3,36005,UPI,New,108015
+1344,"Tuesday, February 13, 2024",West,Chennai,Furniture,Table,10,20836,Net Banking,Returning,208360
+1345,"Tuesday, February 27, 2024",South,Delhi,Clothing,Laptop,3,17240,UPI,Returning,51720
+1346,"Thursday, January 4, 2024",South,Mumbai,Electronics,Table,9,31842,Card,New,286578
+1347,"Wednesday, August 7, 2024",East,Hyderabad,Clothing,T-Shirt,5,38319,UPI,New,191595
+1348,"Friday, October 25, 2024",North,Hyderabad,Electronics,Jeans,4,38570,Card,Returning,154280
+1349,"Wednesday, January 3, 2024",East,Mumbai,Clothing,Laptop,7,9941,Net Banking,Returning,69587
+1350,"Monday, October 21, 2024",East,Chennai,Groceries,Chair,9,25152,UPI,New,226368
+1351,"Tuesday, October 1, 2024",North,Hyderabad,Clothing,Phone,5,30692,UPI,Returning,153460
+1352,"Tuesday, September 24, 2024",West,Mumbai,Clothing,Oil,6,33342,Cash,New,200052
+1353,"Tuesday, April 23, 2024",East,Bangalore,Clothing,Oil,3,20692,Net Banking,New,62076
+1354,"Sunday, June 2, 2024",East,Chennai,Groceries,Jeans,4,31951,Cash,New,127804
+1355,"Friday, November 1, 2024",East,Chennai,Electronics,Rice,4,30353,UPI,Returning,121412
+1356,"Sunday, December 15, 2024",West,Kolkata,Groceries,Oil,8,7286,Cash,Returning,58288
+1357,"Friday, May 17, 2024",East,Kolkata,Furniture,Oil,8,24549,UPI,New,196392
+1358,"Saturday, June 29, 2024",South,Mumbai,Electronics,T-Shirt,6,26098,Net Banking,Returning,156588
+1359,"Saturday, September 7, 2024",South,Kolkata,Clothing,T-Shirt,8,25627,Card,New,205016
+1360,"Wednesday, May 8, 2024",East,Bangalore,Furniture,Table,8,25358,Cash,New,202864
+1361,"Wednesday, March 6, 2024",North,Bangalore,Clothing,Chair,8,14232,Cash,Returning,113856
+1362,"Sunday, April 28, 2024",South,Mumbai,Groceries,Oil,4,30772,Cash,Returning,123088
+1363,"Sunday, July 21, 2024",East,Chennai,Electronics,Rice,5,29697,Cash,Returning,148485
+1364,"Friday, December 20, 2024",West,Hyderabad,Groceries,Rice,9,35201,Net Banking,Returning,316809
+1365,"Monday, August 26, 2024",North,Hyderabad,Groceries,Chair,4,11149,Net Banking,Returning,44596
+1366,"Saturday, April 20, 2024",North,Hyderabad,Electronics,Oil,1,38463,Card,New,38463
+1367,"Thursday, March 7, 2024",South,Mumbai,Furniture,Jeans,2,2624,Net Banking,Returning,5248
+1368,"Tuesday, June 4, 2024",South,Hyderabad,Clothing,Rice,10,19014,Card,New,190140
+1369,"Friday, February 9, 2024",East,Hyderabad,Furniture,Chair,3,15091,Cash,New,45273
+1370,"Tuesday, October 29, 2024",North,Bangalore,Groceries,Table,4,37023,UPI,New,148092
+1371,"Monday, January 15, 2024",South,Kolkata,Clothing,Rice,10,31699,Cash,New,316990
+1372,"Monday, January 15, 2024",North,Chennai,Furniture,T-Shirt,4,15966,Cash,New,63864
+1373,"Monday, July 29, 2024",East,Chennai,Clothing,T-Shirt,6,31559,Card,Returning,189354
+1374,"Friday, December 13, 2024",South,Delhi,Clothing,Phone,4,32722,UPI,Returning,130888
+1375,"Wednesday, May 15, 2024",West,Delhi,Groceries,Jeans,2,38756,Cash,Returning,77512
+1376,"Thursday, May 2, 2024",South,Mumbai,Clothing,Jeans,4,35343,Card,Returning,141372
+1377,"Wednesday, May 15, 2024",West,Mumbai,Furniture,Chair,7,29492,UPI,Returning,206444
+1378,"Sunday, October 27, 2024",South,Mumbai,Furniture,Jeans,1,2534,Card,Returning,2534
+1379,"Thursday, February 1, 2024",West,Delhi,Clothing,Chair,1,45941,Cash,New,45941
+1380,"Saturday, January 20, 2024",West,Kolkata,Clothing,Oil,10,17538,UPI,Returning,175380
+1381,"Monday, October 7, 2024",West,Mumbai,Furniture,Jeans,10,15335,Cash,New,153350
+1382,"Thursday, December 19, 2024",East,Bangalore,Clothing,Oil,6,43297,UPI,New,259782
+1383,"Monday, February 5, 2024",North,Kolkata,Clothing,T-Shirt,1,36536,Net Banking,New,36536
+1384,"Monday, October 28, 2024",South,Chennai,Electronics,Jeans,7,13932,Net Banking,Returning,97524
+1385,"Tuesday, June 4, 2024",North,Chennai,Groceries,Rice,6,34397,Cash,New,206382
+1386,"Sunday, June 2, 2024",North,Mumbai,Groceries,Table,9,13385,UPI,Returning,120465
+1387,"Friday, July 26, 2024",West,Bangalore,Furniture,Rice,10,49607,Card,New,496070
+1388,"Tuesday, July 2, 2024",West,Bangalore,Electronics,Table,5,49553,UPI,New,247765
+1389,"Sunday, March 24, 2024",West,Hyderabad,Clothing,Oil,1,1359,Card,New,1359
+1390,"Friday, April 5, 2024",East,Delhi,Electronics,Laptop,9,16727,Cash,New,150543
+1391,"Saturday, January 27, 2024",North,Kolkata,Clothing,T-Shirt,4,13127,Net Banking,Returning,52508
+1392,"Wednesday, December 18, 2024",East,Chennai,Clothing,Laptop,10,46675,UPI,New,466750
+1393,"Saturday, May 25, 2024",East,Mumbai,Furniture,Table,1,37748,Card,New,37748
+1394,"Monday, October 14, 2024",East,Delhi,Clothing,Laptop,5,5513,Net Banking,New,27565
+1395,"Monday, February 12, 2024",North,Mumbai,Electronics,Rice,6,22118,Cash,New,132708
+1396,"Thursday, February 22, 2024",South,Delhi,Electronics,Chair,6,36766,UPI,New,220596
+1397,"Tuesday, May 28, 2024",West,Chennai,Furniture,Rice,8,19083,Card,Returning,152664
+1398,"Sunday, September 1, 2024",West,Chennai,Groceries,Phone,3,26575,UPI,Returning,79725
+1399,"Tuesday, December 24, 2024",South,Kolkata,Groceries,Jeans,2,7600,Net Banking,Returning,15200
+1400,"Saturday, August 10, 2024",North,Mumbai,Clothing,T-Shirt,7,47455,Cash,Returning,332185
+1401,"Tuesday, July 30, 2024",North,Hyderabad,Electronics,Jeans,1,36331,Net Banking,New,36331
+1402,"Thursday, January 11, 2024",West,Delhi,Electronics,Jeans,2,7037,Card,Returning,14074
+1403,"Thursday, September 5, 2024",East,Kolkata,Clothing,Laptop,2,8603,Card,Returning,17206
+1404,"Monday, January 1, 2024",South,Hyderabad,Furniture,Phone,10,38093,UPI,New,380930
+1405,"Wednesday, November 20, 2024",South,Bangalore,Clothing,Chair,6,9869,Net Banking,Returning,59214
+1406,"Thursday, December 12, 2024",North,Delhi,Furniture,Chair,1,44965,Net Banking,Returning,44965
+1407,"Tuesday, April 23, 2024",East,Mumbai,Furniture,Chair,5,42499,Card,New,212495
+1408,"Sunday, July 28, 2024",West,Chennai,Groceries,Laptop,4,49458,Net Banking,New,197832
+1409,"Monday, October 7, 2024",East,Hyderabad,Electronics,Laptop,9,13368,Net Banking,New,120312
+1410,"Monday, August 5, 2024",West,Kolkata,Groceries,Rice,10,42793,Card,Returning,427930
+1411,"Saturday, November 23, 2024",North,Kolkata,Clothing,Oil,2,2807,Cash,New,5614
+1412,"Monday, October 21, 2024",North,Delhi,Groceries,Chair,5,39633,UPI,Returning,198165
+1413,"Monday, August 26, 2024",West,Mumbai,Furniture,Table,6,40968,Cash,New,245808
+1414,"Thursday, July 11, 2024",East,Kolkata,Electronics,Chair,1,36434,Net Banking,Returning,36434
+1415,"Sunday, January 7, 2024",North,Kolkata,Electronics,Phone,7,11653,Net Banking,Returning,81571
+1416,"Thursday, June 6, 2024",North,Delhi,Groceries,Phone,4,39875,Card,New,159500
+1417,"Friday, November 1, 2024",North,Kolkata,Electronics,Jeans,9,36718,Card,Returning,330462
+1418,"Tuesday, October 1, 2024",West,Mumbai,Electronics,Table,5,2235,UPI,New,11175
+1419,"Friday, December 6, 2024",North,Delhi,Clothing,Chair,2,28929,UPI,New,57858
+1420,"Tuesday, March 19, 2024",West,Delhi,Electronics,Rice,3,30572,Net Banking,New,91716
+1421,"Wednesday, May 8, 2024",South,Hyderabad,Electronics,Rice,3,44970,Net Banking,Returning,134910
+1422,"Friday, October 18, 2024",East,Mumbai,Groceries,Phone,9,36605,Cash,New,329445
+1423,"Thursday, October 17, 2024",East,Kolkata,Clothing,Phone,2,4357,Net Banking,New,8714
+1424,"Monday, September 16, 2024",West,Kolkata,Groceries,Jeans,4,2423,Net Banking,Returning,9692
+1425,"Saturday, September 14, 2024",West,Delhi,Groceries,Chair,3,7148,UPI,Returning,21444
+1426,"Friday, August 9, 2024",North,Hyderabad,Electronics,Chair,9,38680,Cash,Returning,348120
+1427,"Monday, August 5, 2024",East,Hyderabad,Groceries,Laptop,7,19856,Net Banking,Returning,138992
+1428,"Monday, May 13, 2024",South,Chennai,Furniture,Chair,4,16997,Card,Returning,67988
+1429,"Sunday, December 15, 2024",South,Hyderabad,Electronics,Table,1,22607,UPI,New,22607
+1430,"Wednesday, January 24, 2024",North,Delhi,Electronics,Oil,2,24741,Cash,Returning,49482
+1431,"Friday, September 27, 2024",East,Bangalore,Electronics,Table,9,7851,Cash,Returning,70659
+1432,"Saturday, November 30, 2024",North,Chennai,Groceries,Table,7,35330,UPI,Returning,247310
+1433,"Tuesday, April 23, 2024",North,Chennai,Groceries,Jeans,8,10505,UPI,New,84040
+1434,"Sunday, February 25, 2024",East,Delhi,Clothing,Jeans,6,3297,Card,Returning,19782
+1435,"Wednesday, September 4, 2024",South,Kolkata,Groceries,Oil,5,36705,Cash,Returning,183525
+1436,"Tuesday, April 16, 2024",South,Chennai,Clothing,Jeans,7,14987,Net Banking,Returning,104909
+1437,"Wednesday, May 22, 2024",East,Delhi,Furniture,Table,5,5882,UPI,New,29410
+1438,"Sunday, June 23, 2024",North,Hyderabad,Clothing,Laptop,3,40072,Cash,New,120216
+1439,"Wednesday, February 7, 2024",North,Delhi,Electronics,Table,8,5526,Card,Returning,44208
+1440,"Sunday, October 6, 2024",North,Mumbai,Furniture,Phone,9,36068,UPI,Returning,324612
+1441,"Thursday, September 12, 2024",North,Bangalore,Groceries,T-Shirt,5,14990,UPI,New,74950
+1442,"Thursday, March 7, 2024",North,Delhi,Clothing,Chair,10,37139,UPI,Returning,371390
+1443,"Monday, July 8, 2024",East,Mumbai,Clothing,Table,1,7079,Card,Returning,7079
+1444,"Monday, February 5, 2024",North,Mumbai,Electronics,T-Shirt,9,12728,Card,Returning,114552
+1445,"Thursday, July 11, 2024",West,Bangalore,Groceries,Jeans,2,1114,UPI,Returning,2228
+1446,"Wednesday, May 8, 2024",South,Mumbai,Electronics,Oil,4,21996,Cash,Returning,87984
+1447,"Tuesday, August 13, 2024",North,Mumbai,Furniture,Rice,8,6855,UPI,Returning,54840
+1448,"Thursday, January 18, 2024",East,Chennai,Clothing,Phone,9,29214,UPI,New,262926
+1449,"Tuesday, January 16, 2024",South,Mumbai,Groceries,Rice,2,12058,UPI,Returning,24116
+1450,"Friday, October 4, 2024",North,Mumbai,Clothing,T-Shirt,7,38681,Cash,New,270767
+1451,"Sunday, September 8, 2024",South,Bangalore,Furniture,Rice,5,10240,Cash,New,51200
+1452,"Friday, February 9, 2024",West,Kolkata,Groceries,Phone,10,11652,UPI,New,116520
+1453,"Tuesday, January 9, 2024",East,Chennai,Furniture,Rice,3,4755,Card,New,14265
+1454,"Saturday, August 10, 2024",North,Chennai,Groceries,Phone,10,44188,UPI,Returning,441880
+1455,"Sunday, November 10, 2024",East,Delhi,Groceries,Jeans,2,9963,Net Banking,New,19926
+1456,"Wednesday, December 4, 2024",South,Kolkata,Groceries,Laptop,2,16784,Cash,New,33568
+1457,"Thursday, March 28, 2024",North,Delhi,Clothing,Table,9,17261,Cash,New,155349
+1458,"Saturday, May 11, 2024",South,Bangalore,Electronics,Rice,8,17507,Cash,Returning,140056
+1459,"Tuesday, October 15, 2024",North,Kolkata,Groceries,Jeans,9,14059,UPI,New,126531
+1460,"Wednesday, January 31, 2024",South,Kolkata,Clothing,Phone,3,45621,Card,Returning,136863
+1461,"Thursday, April 4, 2024",South,Delhi,Groceries,Jeans,4,12583,Card,Returning,50332
+1462,"Friday, March 15, 2024",North,Kolkata,Furniture,Phone,3,29366,UPI,Returning,88098
+1463,"Sunday, May 12, 2024",North,Delhi,Groceries,Chair,9,31753,Net Banking,Returning,285777
+1464,"Monday, May 13, 2024",South,Bangalore,Groceries,Oil,9,49945,Card,Returning,449505
+1465,"Monday, January 15, 2024",West,Delhi,Furniture,T-Shirt,5,36849,UPI,New,184245
+1466,"Monday, March 11, 2024",West,Hyderabad,Furniture,Rice,3,37352,Cash,Returning,112056
+1467,"Friday, May 24, 2024",West,Chennai,Electronics,Jeans,10,48563,Net Banking,Returning,485630
+1468,"Sunday, September 1, 2024",West,Kolkata,Furniture,Laptop,1,16459,Card,New,16459
+1469,"Wednesday, July 31, 2024",South,Mumbai,Groceries,Rice,4,48218,Cash,Returning,192872
+1470,"Wednesday, July 3, 2024",West,Kolkata,Groceries,Phone,7,9319,Net Banking,Returning,65233
+1471,"Sunday, September 22, 2024",South,Kolkata,Groceries,Table,10,34478,Net Banking,Returning,344780
+1472,"Thursday, September 12, 2024",East,Mumbai,Groceries,Chair,1,23665,Card,Returning,23665
+1473,"Wednesday, May 15, 2024",East,Mumbai,Furniture,Chair,6,39038,Net Banking,New,234228
+1474,"Thursday, December 26, 2024",East,Delhi,Electronics,Oil,9,6863,Card,Returning,61767
+1475,"Thursday, June 13, 2024",North,Chennai,Furniture,Chair,9,17814,Cash,New,160326
+1476,"Tuesday, July 23, 2024",South,Hyderabad,Furniture,Laptop,9,15705,UPI,Returning,141345
+1477,"Thursday, August 8, 2024",West,Delhi,Electronics,Laptop,3,48116,UPI,New,144348
+1478,"Friday, July 12, 2024",South,Delhi,Furniture,Chair,4,39262,Card,New,157048
+1479,"Friday, April 12, 2024",North,Mumbai,Electronics,Laptop,7,5272,UPI,New,36904
+1480,"Thursday, July 25, 2024",North,Chennai,Groceries,Laptop,8,1268,Cash,New,10144
+1481,"Thursday, March 14, 2024",East,Mumbai,Clothing,Phone,8,6575,UPI,New,52600
+1482,"Sunday, April 21, 2024",West,Hyderabad,Furniture,Rice,3,13254,UPI,Returning,39762
+1483,"Saturday, July 6, 2024",South,Chennai,Furniture,Laptop,3,47085,Card,New,141255
+1484,"Sunday, September 8, 2024",East,Hyderabad,Electronics,T-Shirt,2,37076,UPI,New,74152
+1485,"Monday, February 5, 2024",West,Kolkata,Furniture,Jeans,9,17423,Cash,Returning,156807
+1486,"Saturday, September 14, 2024",West,Kolkata,Groceries,Table,1,45472,Cash,New,45472
+1487,"Thursday, October 10, 2024",West,Chennai,Electronics,Phone,9,3932,Net Banking,Returning,35388
+1488,"Tuesday, July 16, 2024",West,Kolkata,Groceries,Jeans,9,37091,Card,New,333819
+1489,"Friday, February 23, 2024",East,Delhi,Clothing,Table,6,13348,Net Banking,New,80088
+1490,"Tuesday, November 12, 2024",South,Bangalore,Electronics,Oil,2,12360,Cash,Returning,24720
+1491,"Tuesday, December 10, 2024",West,Hyderabad,Clothing,Rice,1,49816,Net Banking,New,49816
+1492,"Wednesday, March 13, 2024",West,Chennai,Clothing,Oil,1,14732,Net Banking,Returning,14732
+1493,"Tuesday, February 27, 2024",South,Bangalore,Groceries,Table,8,21998,Net Banking,New,175984
+1494,"Sunday, November 24, 2024",North,Hyderabad,Furniture,T-Shirt,8,44325,Card,Returning,354600
+1495,"Tuesday, April 30, 2024",East,Bangalore,Electronics,T-Shirt,9,42451,Card,Returning,382059
+1496,"Friday, February 2, 2024",West,Kolkata,Electronics,Laptop,7,11910,Cash,New,83370
+1497,"Tuesday, February 27, 2024",West,Mumbai,Clothing,Rice,9,751,Net Banking,New,6759
+1498,"Tuesday, September 3, 2024",South,Mumbai,Clothing,Chair,2,683,Net Banking,New,1366
+1499,"Monday, January 8, 2024",East,Delhi,Furniture,Table,4,19564,Net Banking,New,78256
+1500,"Monday, November 25, 2024",West,Chennai,Electronics,Laptop,7,40663,Cash,Returning,284641
+1501,"Wednesday, June 19, 2024",West,Hyderabad,Groceries,Table,1,49795,Cash,New,49795
+1502,"Friday, July 5, 2024",North,Bangalore,Groceries,Laptop,9,37046,UPI,New,333414
+1503,"Friday, April 12, 2024",South,Bangalore,Clothing,Jeans,8,8124,Cash,Returning,64992
+1504,"Tuesday, February 20, 2024",East,Hyderabad,Furniture,Oil,9,3196,Cash,New,28764
+1505,"Tuesday, September 10, 2024",South,Chennai,Furniture,Phone,6,49223,Net Banking,New,295338
+1506,"Monday, March 25, 2024",South,Hyderabad,Clothing,T-Shirt,2,23326,Cash,Returning,46652
+1507,"Friday, December 27, 2024",West,Chennai,Groceries,T-Shirt,2,49176,Card,Returning,98352
+1508,"Monday, October 28, 2024",South,Bangalore,Clothing,T-Shirt,8,45351,UPI,Returning,362808
+1509,"Sunday, August 4, 2024",South,Chennai,Furniture,Jeans,4,6751,UPI,New,27004
+1510,"Friday, October 25, 2024",South,Delhi,Furniture,Chair,2,7244,UPI,Returning,14488
+1511,"Wednesday, March 6, 2024",South,Hyderabad,Furniture,Phone,3,14290,Net Banking,New,42870
+1512,"Monday, August 19, 2024",North,Chennai,Groceries,Table,4,8948,Card,New,35792
+1513,"Saturday, June 15, 2024",North,Bangalore,Furniture,Oil,3,26232,Cash,New,78696
+1514,"Wednesday, June 19, 2024",East,Hyderabad,Electronics,Oil,6,17053,Net Banking,New,102318
+1515,"Thursday, June 27, 2024",North,Kolkata,Clothing,Laptop,4,36744,Net Banking,New,146976
+1516,"Monday, March 11, 2024",West,Bangalore,Groceries,Rice,1,12406,Cash,Returning,12406
+1517,"Tuesday, February 20, 2024",South,Kolkata,Electronics,T-Shirt,5,12167,UPI,Returning,60835
+1518,"Tuesday, July 2, 2024",North,Kolkata,Electronics,Oil,8,19267,Card,New,154136
+1519,"Sunday, January 7, 2024",North,Bangalore,Furniture,T-Shirt,2,12972,Card,Returning,25944
+1520,"Monday, October 14, 2024",East,Mumbai,Furniture,T-Shirt,1,36029,Card,Returning,36029
+1521,"Thursday, November 21, 2024",North,Chennai,Furniture,Phone,1,1502,Card,New,1502
+1522,"Wednesday, October 9, 2024",East,Kolkata,Groceries,Phone,4,32696,UPI,Returning,130784
+1523,"Saturday, March 9, 2024",West,Hyderabad,Furniture,Laptop,2,45687,Cash,New,91374
+1524,"Saturday, September 7, 2024",West,Bangalore,Groceries,T-Shirt,8,23541,UPI,Returning,188328
+1525,"Monday, January 29, 2024",East,Hyderabad,Groceries,Phone,1,3197,Net Banking,New,3197
+1526,"Wednesday, September 11, 2024",East,Chennai,Clothing,Jeans,9,49472,Cash,Returning,445248
+1527,"Wednesday, October 30, 2024",East,Delhi,Clothing,Jeans,6,36666,Cash,Returning,219996
+1528,"Wednesday, February 28, 2024",West,Hyderabad,Electronics,Laptop,2,4248,Net Banking,Returning,8496
+1529,"Monday, June 10, 2024",East,Chennai,Groceries,Phone,8,20523,Card,New,164184
+1530,"Tuesday, October 1, 2024",South,Chennai,Clothing,T-Shirt,9,11573,Card,Returning,104157
+1531,"Tuesday, July 9, 2024",West,Chennai,Electronics,Oil,3,37623,Cash,Returning,112869
+1532,"Wednesday, March 27, 2024",North,Chennai,Furniture,T-Shirt,2,15519,Net Banking,New,31038
+1533,"Sunday, September 22, 2024",West,Hyderabad,Clothing,Laptop,1,22957,Net Banking,New,22957
+1534,"Monday, January 15, 2024",North,Hyderabad,Furniture,T-Shirt,7,28591,UPI,Returning,200137
+1535,"Thursday, May 2, 2024",East,Kolkata,Groceries,Oil,4,43711,Net Banking,New,174844
+1536,"Wednesday, June 19, 2024",West,Bangalore,Furniture,Laptop,3,25230,Cash,New,75690
+1537,"Thursday, July 18, 2024",West,Chennai,Furniture,Laptop,6,49319,Net Banking,New,295914
+1538,"Friday, June 14, 2024",East,Chennai,Groceries,Phone,5,35184,Card,Returning,175920
+1539,"Monday, June 24, 2024",North,Delhi,Groceries,Rice,3,3195,Net Banking,New,9585
+1540,"Tuesday, September 17, 2024",South,Chennai,Furniture,Laptop,1,14445,UPI,New,14445
+1541,"Thursday, May 23, 2024",North,Chennai,Electronics,Laptop,9,31849,Card,New,286641
+1542,"Monday, February 19, 2024",East,Chennai,Furniture,Oil,4,47858,Card,Returning,191432
+1543,"Wednesday, November 20, 2024",North,Bangalore,Furniture,Jeans,10,42061,Cash,New,420610
+1544,"Friday, October 11, 2024",South,Mumbai,Groceries,Jeans,7,37438,Net Banking,Returning,262066
+1545,"Sunday, January 14, 2024",South,Mumbai,Groceries,Phone,1,19135,UPI,New,19135
+1546,"Friday, September 27, 2024",North,Delhi,Furniture,T-Shirt,2,39396,UPI,New,78792
+1547,"Sunday, June 30, 2024",East,Chennai,Groceries,Rice,5,44650,UPI,Returning,223250
+1548,"Thursday, August 22, 2024",West,Hyderabad,Groceries,Chair,9,6239,Card,New,56151
+1549,"Monday, August 12, 2024",South,Chennai,Furniture,Phone,4,6986,UPI,New,27944
+1550,"Sunday, September 22, 2024",West,Chennai,Groceries,T-Shirt,10,34509,Net Banking,New,345090
+1551,"Wednesday, October 2, 2024",North,Mumbai,Furniture,Rice,3,30502,Net Banking,Returning,91506
+1552,"Thursday, September 26, 2024",South,Mumbai,Furniture,T-Shirt,10,15827,UPI,New,158270
+1553,"Saturday, May 18, 2024",East,Mumbai,Electronics,Phone,4,30684,Net Banking,New,122736
+1554,"Wednesday, July 10, 2024",West,Chennai,Furniture,Chair,1,23089,Card,Returning,23089
+1555,"Saturday, July 20, 2024",South,Bangalore,Furniture,Laptop,4,10074,Card,Returning,40296
+1556,"Thursday, August 22, 2024",East,Mumbai,Furniture,Table,5,5323,Cash,New,26615
+1557,"Saturday, September 21, 2024",West,Bangalore,Clothing,T-Shirt,2,16457,Net Banking,Returning,32914
+1558,"Wednesday, March 13, 2024",West,Delhi,Furniture,T-Shirt,2,12001,UPI,Returning,24002
+1559,"Saturday, December 28, 2024",South,Chennai,Clothing,Rice,3,19388,UPI,New,58164
+1560,"Saturday, September 14, 2024",West,Kolkata,Clothing,Table,1,38621,Net Banking,Returning,38621
+1561,"Thursday, December 19, 2024",East,Hyderabad,Groceries,Phone,7,41279,Card,Returning,288953
+1562,"Tuesday, January 16, 2024",North,Bangalore,Electronics,Laptop,4,19345,UPI,Returning,77380
+1563,"Tuesday, January 2, 2024",West,Hyderabad,Groceries,Rice,5,23096,Net Banking,New,115480
+1564,"Friday, April 26, 2024",South,Mumbai,Electronics,Table,10,32023,Card,New,320230
+1565,"Sunday, August 18, 2024",West,Delhi,Electronics,Jeans,2,47227,Net Banking,New,94454
+1566,"Monday, March 18, 2024",East,Hyderabad,Groceries,Jeans,4,2201,UPI,New,8804
+1567,"Saturday, October 26, 2024",East,Mumbai,Clothing,Chair,10,27335,Cash,Returning,273350
+1568,"Saturday, November 23, 2024",East,Mumbai,Electronics,Jeans,7,8023,Net Banking,New,56161
+1569,"Monday, December 23, 2024",West,Hyderabad,Electronics,Laptop,1,13650,Net Banking,Returning,13650
+1570,"Wednesday, December 18, 2024",West,Hyderabad,Groceries,Oil,8,4664,Cash,Returning,37312
+1571,"Saturday, September 14, 2024",West,Mumbai,Groceries,Laptop,10,12605,Card,New,126050
+1572,"Sunday, April 28, 2024",North,Bangalore,Groceries,Chair,5,30014,Cash,New,150070
+1573,"Friday, September 20, 2024",North,Bangalore,Furniture,Laptop,5,31244,Net Banking,New,156220
+1574,"Monday, February 12, 2024",West,Chennai,Clothing,Rice,9,309,UPI,New,2781
+1575,"Tuesday, June 4, 2024",West,Hyderabad,Clothing,T-Shirt,2,49858,UPI,Returning,99716
+1576,"Thursday, October 24, 2024",South,Hyderabad,Furniture,Table,10,40511,Card,New,405110
+1577,"Wednesday, August 7, 2024",South,Bangalore,Clothing,Laptop,3,27397,Cash,Returning,82191
+1578,"Monday, December 23, 2024",North,Kolkata,Groceries,Laptop,6,43566,UPI,New,261396
+1579,"Sunday, February 11, 2024",South,Bangalore,Clothing,Chair,1,37709,Net Banking,Returning,37709
+1580,"Thursday, June 20, 2024",South,Hyderabad,Furniture,Phone,10,19304,Net Banking,Returning,193040
+1581,"Thursday, June 20, 2024",West,Kolkata,Furniture,Table,4,26652,Card,New,106608
+1582,"Thursday, August 8, 2024",West,Bangalore,Clothing,Table,1,30598,Cash,Returning,30598
+1583,"Wednesday, November 13, 2024",South,Kolkata,Furniture,Chair,4,31451,UPI,Returning,125804
+1584,"Saturday, January 27, 2024",South,Chennai,Electronics,Phone,10,44677,Card,New,446770
+1585,"Wednesday, August 14, 2024",North,Kolkata,Clothing,Oil,1,13067,UPI,New,13067
+1586,"Tuesday, October 29, 2024",East,Bangalore,Furniture,Phone,3,41611,Card,New,124833
+1587,"Tuesday, September 24, 2024",South,Delhi,Electronics,Table,7,31042,UPI,Returning,217294
+1588,"Saturday, January 20, 2024",West,Bangalore,Groceries,T-Shirt,1,24373,Cash,Returning,24373
+1589,"Thursday, July 11, 2024",South,Chennai,Furniture,Jeans,5,10085,Net Banking,Returning,50425
+1590,"Thursday, October 31, 2024",South,Bangalore,Groceries,Oil,4,2885,Net Banking,New,11540
+1591,"Monday, November 11, 2024",South,Bangalore,Clothing,Rice,6,42042,Card,New,252252
+1592,"Saturday, August 31, 2024",East,Hyderabad,Furniture,Jeans,3,33223,UPI,New,99669
+1593,"Sunday, November 10, 2024",East,Chennai,Electronics,Laptop,10,45622,Cash,Returning,456220
+1594,"Monday, July 22, 2024",South,Bangalore,Furniture,T-Shirt,2,3551,Net Banking,New,7102
+1595,"Friday, March 22, 2024",South,Chennai,Electronics,Laptop,10,46156,Cash,New,461560
+1596,"Wednesday, January 31, 2024",North,Bangalore,Groceries,Chair,1,46029,UPI,New,46029
+1597,"Sunday, August 18, 2024",North,Chennai,Clothing,Phone,5,16252,Cash,New,81260
+1598,"Tuesday, August 27, 2024",West,Kolkata,Furniture,Jeans,3,44373,Card,Returning,133119
+1599,"Sunday, April 28, 2024",South,Bangalore,Clothing,Laptop,2,16780,Cash,Returning,33560
+1600,"Sunday, September 1, 2024",North,Mumbai,Clothing,Jeans,6,18194,Card,New,109164
+1601,"Tuesday, June 11, 2024",North,Mumbai,Furniture,Laptop,3,23409,Card,New,70227
+1602,"Sunday, August 18, 2024",South,Delhi,Clothing,Rice,5,12861,Cash,New,64305
+1603,"Sunday, February 11, 2024",East,Bangalore,Clothing,Table,7,14784,Card,Returning,103488
+1604,"Thursday, April 18, 2024",East,Chennai,Electronics,Chair,9,4086,Card,New,36774
+1605,"Friday, July 19, 2024",South,Mumbai,Electronics,Laptop,6,22522,Card,New,135132
+1606,"Saturday, July 13, 2024",North,Bangalore,Furniture,Rice,7,24291,Cash,Returning,170037
+1607,"Sunday, March 17, 2024",South,Bangalore,Groceries,Table,1,27058,Card,Returning,27058
+1608,"Monday, October 21, 2024",North,Mumbai,Electronics,Phone,3,16147,Cash,New,48441
+1609,"Thursday, June 13, 2024",East,Hyderabad,Electronics,Table,8,10165,Card,New,81320
+1610,"Friday, April 12, 2024",East,Kolkata,Clothing,Jeans,9,44494,Net Banking,Returning,400446
+1611,"Friday, February 23, 2024",North,Bangalore,Electronics,Table,9,8702,UPI,New,78318
+1612,"Friday, February 9, 2024",South,Delhi,Groceries,Table,2,46452,Card,New,92904
+1613,"Saturday, August 17, 2024",West,Bangalore,Groceries,Chair,7,33367,Cash,Returning,233569
+1614,"Monday, February 19, 2024",West,Mumbai,Clothing,Phone,3,4597,Net Banking,Returning,13791
+1615,"Friday, October 25, 2024",West,Mumbai,Clothing,Phone,6,25555,UPI,Returning,153330
+1616,"Thursday, June 20, 2024",North,Chennai,Groceries,T-Shirt,5,13266,Cash,New,66330
+1617,"Thursday, May 23, 2024",West,Kolkata,Electronics,Chair,10,17097,Cash,Returning,170970
+1618,"Tuesday, January 16, 2024",North,Kolkata,Furniture,Rice,9,35985,UPI,Returning,323865
+1619,"Monday, September 16, 2024",East,Kolkata,Electronics,Phone,7,39634,Cash,New,277438
+1620,"Sunday, August 4, 2024",North,Kolkata,Furniture,Rice,3,44718,Card,Returning,134154
+1621,"Friday, May 24, 2024",East,Mumbai,Clothing,Jeans,3,8646,Card,New,25938
+1622,"Monday, November 18, 2024",West,Mumbai,Furniture,Laptop,1,6093,Cash,New,6093
+1623,"Monday, December 9, 2024",West,Mumbai,Electronics,Laptop,10,20306,Card,New,203060
+1624,"Wednesday, August 14, 2024",East,Chennai,Furniture,Phone,6,42127,Net Banking,New,252762
+1625,"Sunday, June 2, 2024",West,Hyderabad,Electronics,Chair,5,48710,Card,Returning,243550
+1626,"Monday, April 1, 2024",North,Kolkata,Groceries,Oil,1,3887,UPI,New,3887
+1627,"Monday, June 10, 2024",South,Kolkata,Electronics,Laptop,9,4899,UPI,Returning,44091
+1628,"Saturday, September 21, 2024",South,Kolkata,Clothing,T-Shirt,3,13747,Card,New,41241
+1629,"Saturday, February 10, 2024",East,Bangalore,Clothing,Chair,8,6739,Card,Returning,53912
+1630,"Sunday, September 8, 2024",South,Chennai,Clothing,T-Shirt,8,46082,Cash,New,368656
+1631,"Friday, June 7, 2024",West,Kolkata,Electronics,Rice,7,40160,Cash,New,281120
+1632,"Thursday, March 7, 2024",West,Mumbai,Furniture,Rice,6,29710,Cash,Returning,178260
+1633,"Saturday, August 24, 2024",North,Chennai,Groceries,Laptop,3,49670,Card,Returning,149010
+1634,"Sunday, December 15, 2024",West,Mumbai,Furniture,Phone,8,48094,Cash,Returning,384752
+1635,"Wednesday, October 16, 2024",West,Kolkata,Electronics,Table,4,41643,Net Banking,Returning,166572
+1636,"Wednesday, May 15, 2024",North,Chennai,Electronics,Rice,4,20968,Cash,Returning,83872
+1637,"Saturday, July 27, 2024",East,Hyderabad,Electronics,Chair,3,23265,Net Banking,Returning,69795
+1638,"Saturday, February 3, 2024",South,Chennai,Clothing,Jeans,4,44812,Net Banking,New,179248
+1639,"Wednesday, January 10, 2024",North,Delhi,Groceries,Jeans,7,5113,Card,Returning,35791
+1640,"Friday, November 22, 2024",West,Hyderabad,Furniture,Table,5,11382,Card,New,56910
+1641,"Wednesday, April 17, 2024",South,Chennai,Electronics,Table,6,30337,Cash,Returning,182022
+1642,"Saturday, December 7, 2024",South,Mumbai,Groceries,Table,2,34914,Cash,Returning,69828
+1643,"Sunday, April 14, 2024",North,Chennai,Furniture,Rice,1,32534,Card,Returning,32534
+1644,"Monday, October 7, 2024",West,Delhi,Electronics,Laptop,2,29540,Net Banking,Returning,59080
+1645,"Sunday, December 29, 2024",West,Mumbai,Electronics,Oil,10,26090,Cash,New,260900
+1646,"Tuesday, November 12, 2024",East,Hyderabad,Furniture,Table,9,6983,Net Banking,Returning,62847
+1647,"Sunday, May 12, 2024",East,Bangalore,Clothing,T-Shirt,10,2892,Card,New,28920
+1648,"Tuesday, May 28, 2024",West,Bangalore,Electronics,Oil,2,34285,Card,New,68570
+1649,"Tuesday, March 19, 2024",West,Delhi,Furniture,Jeans,8,28178,UPI,Returning,225424
+1650,"Thursday, February 29, 2024",West,Mumbai,Electronics,T-Shirt,10,33566,Net Banking,Returning,335660
+1651,"Saturday, April 6, 2024",West,Hyderabad,Furniture,Phone,5,30550,Cash,Returning,152750
+1652,"Saturday, February 17, 2024",East,Mumbai,Clothing,T-Shirt,1,38413,Net Banking,New,38413
+1653,"Wednesday, December 4, 2024",West,Mumbai,Groceries,Chair,8,10678,Net Banking,Returning,85424
+1654,"Thursday, September 5, 2024",West,Kolkata,Clothing,Oil,7,17238,Cash,New,120666
+1655,"Thursday, December 26, 2024",West,Kolkata,Clothing,Chair,3,21741,Net Banking,Returning,65223
+1656,"Sunday, November 24, 2024",South,Mumbai,Clothing,Table,3,42676,Cash,Returning,128028
+1657,"Monday, June 17, 2024",South,Bangalore,Furniture,Phone,5,4480,Net Banking,New,22400
+1658,"Sunday, July 7, 2024",North,Bangalore,Clothing,Phone,2,47024,Net Banking,New,94048
+1659,"Thursday, February 1, 2024",North,Mumbai,Clothing,Oil,2,15007,Cash,Returning,30014
+1660,"Monday, February 19, 2024",West,Bangalore,Clothing,Rice,7,42257,Net Banking,Returning,295799
+1661,"Sunday, May 5, 2024",West,Kolkata,Furniture,Laptop,4,29122,UPI,New,116488
+1662,"Monday, September 23, 2024",East,Mumbai,Clothing,Oil,1,33216,Cash,New,33216
+1663,"Tuesday, November 12, 2024",East,Hyderabad,Groceries,Rice,5,32668,Cash,Returning,163340
+1664,"Saturday, February 24, 2024",East,Chennai,Electronics,Table,2,48145,Net Banking,New,96290
+1665,"Friday, May 17, 2024",East,Hyderabad,Groceries,Jeans,4,9973,Cash,Returning,39892
+1666,"Monday, April 1, 2024",South,Delhi,Clothing,Table,8,20428,Card,Returning,163424
+1667,"Tuesday, August 6, 2024",West,Mumbai,Groceries,Chair,5,18389,Card,Returning,91945
+1668,"Thursday, August 29, 2024",West,Mumbai,Groceries,Oil,10,8658,Card,Returning,86580
+1669,"Wednesday, March 13, 2024",North,Kolkata,Clothing,T-Shirt,8,14402,Card,Returning,115216
+1670,"Tuesday, June 4, 2024",South,Mumbai,Furniture,Jeans,3,47510,Cash,New,142530
+1671,"Sunday, September 8, 2024",South,Chennai,Groceries,Jeans,5,12943,Net Banking,New,64715
+1672,"Friday, July 12, 2024",North,Delhi,Electronics,Rice,7,3970,UPI,New,27790
+1673,"Saturday, May 18, 2024",South,Kolkata,Electronics,Laptop,6,5357,Cash,Returning,32142
+1674,"Monday, December 2, 2024",East,Bangalore,Clothing,Laptop,2,13901,Net Banking,New,27802
+1675,"Tuesday, October 8, 2024",West,Delhi,Electronics,Laptop,6,11733,Cash,New,70398
+1676,"Thursday, January 11, 2024",North,Delhi,Clothing,Table,8,20943,UPI,Returning,167544
+1677,"Tuesday, June 18, 2024",North,Bangalore,Electronics,Oil,7,33862,Card,Returning,237034
+1678,"Friday, October 11, 2024",North,Mumbai,Electronics,Table,3,30907,Card,Returning,92721
+1679,"Tuesday, July 30, 2024",East,Chennai,Furniture,Jeans,9,46366,Card,New,417294
+1680,"Tuesday, March 19, 2024",South,Kolkata,Electronics,Chair,10,12990,Net Banking,New,129900
+1681,"Saturday, April 20, 2024",East,Delhi,Electronics,Laptop,8,15298,Net Banking,New,122384
+1682,"Monday, June 10, 2024",South,Delhi,Groceries,Laptop,3,18959,UPI,New,56877
+1683,"Sunday, October 20, 2024",West,Bangalore,Furniture,Rice,5,43800,Card,Returning,219000
+1684,"Tuesday, April 16, 2024",South,Delhi,Furniture,Laptop,1,28223,Net Banking,Returning,28223
+1685,"Friday, November 15, 2024",East,Mumbai,Groceries,T-Shirt,3,21666,Cash,Returning,64998
+1686,"Thursday, June 27, 2024",South,Bangalore,Electronics,Table,9,18262,Cash,New,164358
+1687,"Tuesday, January 2, 2024",West,Chennai,Furniture,Oil,8,45565,Card,New,364520
+1688,"Saturday, October 19, 2024",South,Kolkata,Groceries,Chair,9,1708,Cash,New,15372
+1689,"Monday, December 16, 2024",West,Kolkata,Groceries,Chair,5,25442,Card,Returning,127210
+1690,"Friday, January 19, 2024",South,Mumbai,Groceries,Phone,1,40480,Card,New,40480
+1691,"Sunday, January 7, 2024",North,Delhi,Electronics,T-Shirt,3,29297,Net Banking,Returning,87891
+1692,"Thursday, February 29, 2024",East,Hyderabad,Electronics,Rice,4,24246,Cash,New,96984
+1693,"Sunday, September 8, 2024",East,Kolkata,Electronics,Rice,4,43491,Card,New,173964
+1694,"Saturday, June 8, 2024",East,Chennai,Clothing,Jeans,2,23991,UPI,New,47982
+1695,"Tuesday, April 30, 2024",South,Delhi,Groceries,Rice,4,8658,UPI,Returning,34632
+1696,"Tuesday, December 17, 2024",North,Bangalore,Clothing,Rice,6,2444,Net Banking,New,14664
+1697,"Friday, February 16, 2024",North,Kolkata,Clothing,Chair,1,24611,UPI,New,24611
+1698,"Monday, April 22, 2024",East,Mumbai,Groceries,Rice,8,31757,Card,Returning,254056
+1699,"Friday, April 5, 2024",North,Bangalore,Furniture,Rice,6,6694,UPI,New,40164
+1700,"Sunday, September 15, 2024",South,Chennai,Electronics,Rice,8,8201,Card,Returning,65608
+1701,"Wednesday, January 17, 2024",South,Hyderabad,Clothing,Rice,6,8952,Net Banking,New,53712
+1702,"Friday, January 12, 2024",South,Mumbai,Electronics,Oil,6,29542,Card,Returning,177252
+1703,"Tuesday, September 17, 2024",South,Mumbai,Furniture,Oil,9,3801,Net Banking,Returning,34209
+1704,"Friday, May 3, 2024",North,Mumbai,Electronics,T-Shirt,9,16076,UPI,New,144684
+1705,"Saturday, June 8, 2024",North,Mumbai,Groceries,Table,7,35716,Card,New,250012
+1706,"Monday, July 1, 2024",East,Bangalore,Groceries,Laptop,7,49570,Net Banking,New,346990
+1707,"Sunday, December 1, 2024",South,Hyderabad,Groceries,Phone,4,37143,Card,Returning,148572
+1708,"Monday, April 22, 2024",West,Hyderabad,Furniture,Oil,2,48251,Card,Returning,96502
+1709,"Sunday, October 13, 2024",North,Hyderabad,Furniture,Rice,6,38737,Cash,New,232422
+1710,"Saturday, April 13, 2024",East,Kolkata,Groceries,Rice,10,28559,Card,New,285590
+1711,"Thursday, February 8, 2024",North,Kolkata,Clothing,T-Shirt,9,23181,Cash,Returning,208629
+1712,"Thursday, January 4, 2024",South,Kolkata,Clothing,T-Shirt,8,8874,UPI,Returning,70992
+1713,"Saturday, February 3, 2024",West,Kolkata,Clothing,Jeans,1,23641,UPI,Returning,23641
+1714,"Sunday, July 7, 2024",East,Bangalore,Groceries,T-Shirt,10,204,UPI,Returning,2040
+1715,"Sunday, October 13, 2024",West,Kolkata,Groceries,Chair,4,32756,Cash,Returning,131024
+1716,"Thursday, December 5, 2024",North,Chennai,Clothing,Jeans,10,41208,Card,Returning,412080
+1717,"Monday, December 16, 2024",South,Delhi,Electronics,Phone,1,13452,UPI,Returning,13452
+1718,"Sunday, January 14, 2024",North,Hyderabad,Electronics,Chair,9,25200,Net Banking,Returning,226800
+1719,"Monday, December 30, 2024",South,Mumbai,Electronics,Table,1,45186,Card,New,45186
+1720,"Saturday, August 3, 2024",East,Kolkata,Furniture,T-Shirt,2,38528,Net Banking,Returning,77056
+1721,"Sunday, March 24, 2024",East,Mumbai,Groceries,Phone,7,22217,Cash,New,155519
+1722,"Wednesday, June 19, 2024",West,Mumbai,Clothing,Laptop,1,35073,UPI,New,35073
+1723,"Thursday, October 24, 2024",North,Hyderabad,Clothing,Table,6,43186,Net Banking,Returning,259116
+1724,"Wednesday, April 17, 2024",East,Bangalore,Furniture,Oil,3,38778,Net Banking,New,116334
+1725,"Monday, May 13, 2024",North,Hyderabad,Clothing,Chair,4,3793,UPI,Returning,15172
+1726,"Tuesday, February 6, 2024",West,Chennai,Furniture,Oil,1,49763,Card,Returning,49763
+1727,"Monday, January 29, 2024",South,Chennai,Electronics,Chair,1,45533,Net Banking,Returning,45533
+1728,"Thursday, May 30, 2024",North,Delhi,Furniture,Chair,9,8379,Cash,New,75411
+1729,"Friday, November 8, 2024",West,Chennai,Electronics,Laptop,4,12971,Cash,Returning,51884
+1730,"Sunday, August 11, 2024",West,Bangalore,Groceries,Jeans,8,47343,Cash,New,378744
+1731,"Monday, February 5, 2024",East,Hyderabad,Furniture,T-Shirt,8,42472,Card,Returning,339776
+1732,"Friday, August 23, 2024",South,Chennai,Electronics,Jeans,5,8076,Cash,New,40380
+1733,"Friday, May 24, 2024",East,Kolkata,Electronics,Laptop,3,20498,Net Banking,Returning,61494
+1734,"Thursday, March 7, 2024",North,Bangalore,Groceries,Table,1,23202,UPI,Returning,23202
+1735,"Thursday, April 4, 2024",East,Delhi,Furniture,Jeans,6,19106,UPI,New,114636
+1736,"Sunday, May 5, 2024",West,Kolkata,Electronics,Rice,1,45672,Card,New,45672
+1737,"Monday, November 11, 2024",North,Hyderabad,Furniture,Chair,2,39332,UPI,Returning,78664
+1738,"Monday, January 15, 2024",South,Delhi,Furniture,Jeans,4,8453,UPI,New,33812
+1739,"Sunday, November 3, 2024",North,Kolkata,Electronics,Table,3,2942,UPI,New,8826
+1740,"Friday, May 31, 2024",West,Chennai,Groceries,Rice,9,1854,Net Banking,Returning,16686
+1741,"Friday, May 10, 2024",North,Chennai,Groceries,Table,5,45872,Cash,Returning,229360
+1742,"Saturday, April 27, 2024",West,Kolkata,Groceries,Table,4,29711,Cash,New,118844
+1743,"Sunday, October 6, 2024",South,Mumbai,Electronics,Laptop,7,38040,UPI,New,266280
+1744,"Saturday, April 13, 2024",West,Hyderabad,Groceries,Laptop,7,29659,Net Banking,New,207613
+1745,"Saturday, February 10, 2024",East,Delhi,Electronics,Rice,4,41634,UPI,Returning,166536
+1746,"Wednesday, March 6, 2024",North,Delhi,Groceries,Laptop,4,24132,Card,New,96528
+1747,"Sunday, May 26, 2024",West,Kolkata,Furniture,Table,5,22444,Net Banking,New,112220
+1748,"Saturday, April 27, 2024",North,Bangalore,Groceries,Table,3,1850,Card,Returning,5550
+1749,"Saturday, September 28, 2024",South,Kolkata,Groceries,Oil,6,36544,Card,New,219264
+1750,"Friday, April 19, 2024",East,Kolkata,Furniture,Laptop,9,38757,Cash,Returning,348813
+1751,"Sunday, December 29, 2024",West,Mumbai,Electronics,Oil,2,22999,Cash,New,45998
+1752,"Sunday, September 22, 2024",East,Hyderabad,Groceries,Chair,6,15046,UPI,New,90276
+1753,"Thursday, May 9, 2024",South,Delhi,Furniture,Rice,5,42328,Cash,Returning,211640
+1754,"Saturday, June 29, 2024",West,Delhi,Groceries,Jeans,2,12698,Card,New,25396
+1755,"Tuesday, August 20, 2024",West,Delhi,Electronics,Chair,1,13381,Cash,Returning,13381
+1756,"Friday, July 5, 2024",West,Mumbai,Electronics,Phone,6,1628,Net Banking,Returning,9768
+1757,"Saturday, June 1, 2024",South,Hyderabad,Electronics,Table,1,39890,Net Banking,New,39890
+1758,"Thursday, December 19, 2024",South,Hyderabad,Clothing,Phone,10,6844,Net Banking,New,68440
+1759,"Friday, November 8, 2024",East,Delhi,Electronics,T-Shirt,9,21145,UPI,Returning,190305
+1760,"Tuesday, August 6, 2024",East,Hyderabad,Groceries,Rice,4,47272,Cash,Returning,189088
+1761,"Sunday, April 28, 2024",East,Bangalore,Furniture,T-Shirt,10,23686,Net Banking,Returning,236860
+1762,"Monday, July 22, 2024",East,Mumbai,Furniture,Rice,4,588,Cash,New,2352
+1763,"Wednesday, May 15, 2024",North,Delhi,Furniture,Oil,6,28946,UPI,Returning,173676
+1764,"Thursday, November 28, 2024",South,Delhi,Groceries,Laptop,1,24204,Cash,New,24204
+1765,"Thursday, June 6, 2024",South,Mumbai,Groceries,Jeans,9,42483,UPI,New,382347
+1766,"Tuesday, November 19, 2024",North,Hyderabad,Electronics,Table,5,14739,Net Banking,Returning,73695
+1767,"Sunday, March 31, 2024",East,Mumbai,Groceries,Chair,8,8333,Net Banking,New,66664
+1768,"Saturday, January 27, 2024",North,Hyderabad,Furniture,Rice,7,16004,Net Banking,Returning,112028
+1769,"Sunday, August 4, 2024",North,Chennai,Furniture,Phone,2,31784,Net Banking,New,63568
+1770,"Wednesday, April 24, 2024",West,Chennai,Groceries,Phone,9,43325,Card,New,389925
+1771,"Wednesday, December 18, 2024",West,Delhi,Groceries,Table,3,24911,Net Banking,New,74733
+1772,"Friday, July 19, 2024",North,Bangalore,Clothing,Laptop,6,26151,Card,New,156906
+1773,"Wednesday, May 1, 2024",East,Kolkata,Furniture,Rice,2,42763,Cash,New,85526
+1774,"Tuesday, July 9, 2024",North,Mumbai,Furniture,Oil,2,24429,Net Banking,Returning,48858
+1775,"Tuesday, December 10, 2024",North,Chennai,Groceries,Phone,8,11779,Cash,New,94232
+1776,"Tuesday, January 30, 2024",North,Mumbai,Furniture,Jeans,5,28791,Cash,New,143955
+1777,"Friday, November 8, 2024",North,Hyderabad,Furniture,Rice,6,31957,Cash,Returning,191742
+1778,"Wednesday, February 7, 2024",North,Mumbai,Groceries,Chair,3,9173,UPI,New,27519
+1779,"Monday, November 25, 2024",West,Kolkata,Electronics,Phone,10,46635,Cash,New,466350
+1780,"Saturday, May 11, 2024",West,Chennai,Electronics,Jeans,1,10815,Net Banking,Returning,10815
+1781,"Saturday, June 1, 2024",West,Bangalore,Electronics,Laptop,8,29065,Card,New,232520
+1782,"Friday, August 2, 2024",East,Delhi,Groceries,Laptop,2,19531,Card,Returning,39062
+1783,"Thursday, September 5, 2024",South,Mumbai,Electronics,Oil,8,7037,Net Banking,Returning,56296
+1784,"Thursday, May 2, 2024",East,Delhi,Groceries,Table,9,32257,Cash,Returning,290313
+1785,"Friday, October 25, 2024",South,Chennai,Clothing,Chair,8,1685,Net Banking,New,13480
+1786,"Friday, October 11, 2024",North,Mumbai,Clothing,Oil,5,31467,Net Banking,New,157335
+1787,"Monday, September 2, 2024",East,Chennai,Clothing,Laptop,1,45742,Card,Returning,45742
+1788,"Friday, March 29, 2024",East,Delhi,Groceries,Chair,8,48265,Card,Returning,386120
+1789,"Wednesday, February 7, 2024",South,Mumbai,Electronics,Table,2,37454,Net Banking,Returning,74908
+1790,"Sunday, September 15, 2024",North,Hyderabad,Furniture,Rice,9,45979,Card,New,413811
+1791,"Monday, February 26, 2024",East,Chennai,Groceries,Chair,6,11230,Net Banking,Returning,67380
+1792,"Monday, September 23, 2024",East,Mumbai,Electronics,Rice,6,34109,Cash,New,204654
+1793,"Saturday, April 27, 2024",North,Kolkata,Clothing,Phone,7,7923,UPI,Returning,55461
+1794,"Sunday, March 3, 2024",South,Hyderabad,Groceries,Jeans,5,16531,Net Banking,New,82655
+1795,"Monday, November 18, 2024",South,Hyderabad,Groceries,Oil,1,20079,UPI,Returning,20079
+1796,"Monday, September 16, 2024",North,Chennai,Groceries,Jeans,10,35470,Cash,Returning,354700
+1797,"Saturday, September 21, 2024",South,Bangalore,Electronics,Phone,8,31756,Cash,New,254048
+1798,"Wednesday, November 27, 2024",West,Mumbai,Groceries,Chair,5,49602,Cash,New,248010
+1799,"Wednesday, November 13, 2024",North,Bangalore,Clothing,Oil,4,12323,Net Banking,New,49292
+1800,"Friday, June 14, 2024",East,Bangalore,Groceries,Laptop,5,14291,Net Banking,Returning,71455
+1801,"Tuesday, July 2, 2024",West,Chennai,Furniture,Chair,4,429,Net Banking,Returning,1716
+1802,"Sunday, August 25, 2024",West,Delhi,Furniture,Chair,4,5690,Cash,New,22760
+1803,"Thursday, May 16, 2024",East,Kolkata,Groceries,T-Shirt,2,20106,Card,Returning,40212
+1804,"Monday, August 19, 2024",North,Delhi,Electronics,Table,1,46581,UPI,Returning,46581
+1805,"Monday, April 1, 2024",North,Kolkata,Clothing,Laptop,8,33010,UPI,Returning,264080
+1806,"Wednesday, November 20, 2024",West,Hyderabad,Electronics,Jeans,1,3594,UPI,New,3594
+1807,"Friday, August 30, 2024",West,Mumbai,Furniture,Jeans,8,26423,Net Banking,Returning,211384
+1808,"Saturday, July 20, 2024",East,Kolkata,Electronics,Jeans,8,46884,Net Banking,New,375072
+1809,"Sunday, May 19, 2024",West,Kolkata,Furniture,Chair,1,34430,Cash,New,34430
+1810,"Sunday, June 9, 2024",North,Hyderabad,Furniture,Table,1,17825,Card,New,17825
+1811,"Wednesday, May 22, 2024",South,Delhi,Groceries,Table,5,9597,Net Banking,New,47985
+1812,"Wednesday, October 9, 2024",South,Kolkata,Furniture,Jeans,9,20854,Net Banking,Returning,187686
+1813,"Wednesday, December 4, 2024",East,Chennai,Furniture,Rice,2,36790,Net Banking,New,73580
+1814,"Friday, December 27, 2024",South,Chennai,Clothing,Oil,5,5368,UPI,Returning,26840
+1815,"Thursday, December 5, 2024",South,Hyderabad,Electronics,Laptop,3,40944,UPI,New,122832
+1816,"Friday, October 25, 2024",West,Bangalore,Groceries,Laptop,3,6495,UPI,New,19485
+1817,"Sunday, June 23, 2024",West,Delhi,Electronics,Jeans,10,29346,Card,Returning,293460
+1818,"Tuesday, October 15, 2024",West,Mumbai,Clothing,T-Shirt,3,18505,Net Banking,New,55515
+1819,"Friday, October 4, 2024",East,Mumbai,Clothing,Laptop,7,11531,Cash,New,80717
+1820,"Saturday, August 17, 2024",West,Bangalore,Clothing,T-Shirt,2,19249,Card,Returning,38498
+1821,"Tuesday, May 7, 2024",East,Bangalore,Clothing,Chair,5,21277,Net Banking,New,106385
+1822,"Thursday, August 22, 2024",East,Kolkata,Groceries,Table,6,28239,Cash,New,169434
+1823,"Wednesday, October 9, 2024",East,Mumbai,Clothing,Rice,7,31478,Cash,New,220346
+1824,"Monday, July 1, 2024",East,Bangalore,Clothing,Laptop,6,19831,Card,Returning,118986
+1825,"Sunday, May 19, 2024",East,Kolkata,Electronics,Chair,5,27862,Cash,New,139310
+1826,"Thursday, August 8, 2024",West,Delhi,Clothing,Jeans,7,11634,Cash,New,81438
+1827,"Wednesday, February 28, 2024",South,Bangalore,Electronics,Chair,4,17235,Net Banking,Returning,68940
+1828,"Wednesday, October 16, 2024",West,Chennai,Furniture,Chair,3,33389,Cash,Returning,100167
+1829,"Tuesday, January 23, 2024",South,Chennai,Furniture,Rice,8,49177,Net Banking,Returning,393416
+1830,"Tuesday, August 20, 2024",North,Chennai,Electronics,Chair,6,31261,UPI,Returning,187566
+1831,"Sunday, January 7, 2024",South,Bangalore,Electronics,Phone,5,4792,Cash,Returning,23960
+1832,"Thursday, July 25, 2024",East,Bangalore,Clothing,T-Shirt,10,3757,Cash,New,37570
+1833,"Thursday, June 13, 2024",South,Hyderabad,Clothing,Phone,2,20431,Card,New,40862
+1834,"Thursday, May 2, 2024",North,Delhi,Groceries,Oil,4,24718,Cash,Returning,98872
+1835,"Thursday, November 28, 2024",West,Kolkata,Electronics,Oil,4,28690,Net Banking,Returning,114760
+1836,"Saturday, December 7, 2024",West,Chennai,Clothing,Laptop,8,13493,UPI,New,107944
+1837,"Thursday, October 31, 2024",North,Hyderabad,Clothing,Rice,4,31942,Net Banking,New,127768
+1838,"Monday, January 15, 2024",South,Hyderabad,Electronics,Phone,5,1036,Net Banking,Returning,5180
+1839,"Thursday, April 18, 2024",West,Delhi,Furniture,Jeans,2,38474,UPI,New,76948
+1840,"Monday, November 18, 2024",North,Chennai,Furniture,Jeans,8,41158,UPI,New,329264
+1841,"Thursday, February 22, 2024",East,Hyderabad,Electronics,Rice,6,48632,Card,New,291792
+1842,"Thursday, June 20, 2024",East,Bangalore,Furniture,Chair,6,37549,Net Banking,Returning,225294
+1843,"Sunday, March 17, 2024",East,Hyderabad,Groceries,Chair,4,6839,Cash,New,27356
+1844,"Tuesday, October 8, 2024",East,Chennai,Groceries,Oil,9,31370,UPI,Returning,282330
+1845,"Wednesday, March 27, 2024",West,Chennai,Furniture,Chair,2,23540,Cash,New,47080
+1846,"Tuesday, October 22, 2024",South,Chennai,Furniture,Oil,9,18011,Card,Returning,162099
+1847,"Tuesday, June 18, 2024",West,Mumbai,Electronics,Chair,7,36551,UPI,New,255857
+1848,"Wednesday, November 27, 2024",West,Delhi,Groceries,Table,5,48501,Net Banking,Returning,242505
+1849,"Tuesday, October 29, 2024",South,Kolkata,Groceries,Laptop,7,39699,Card,New,277893
+1850,"Tuesday, March 12, 2024",North,Chennai,Furniture,Jeans,6,10270,Cash,New,61620
+1851,"Friday, August 23, 2024",East,Mumbai,Clothing,Oil,10,9132,Cash,New,91320
+1852,"Thursday, August 15, 2024",South,Kolkata,Groceries,Jeans,8,23866,UPI,New,190928
+1853,"Wednesday, December 18, 2024",West,Mumbai,Groceries,Phone,1,30218,Card,New,30218
+1854,"Wednesday, May 1, 2024",West,Kolkata,Electronics,Jeans,8,4859,Cash,Returning,38872
+1855,"Thursday, June 6, 2024",West,Mumbai,Electronics,Chair,1,28089,Net Banking,New,28089
+1856,"Wednesday, October 23, 2024",East,Kolkata,Clothing,Jeans,1,46350,Cash,New,46350
+1857,"Saturday, July 6, 2024",East,Chennai,Electronics,Rice,8,44096,UPI,Returning,352768
+1858,"Wednesday, September 25, 2024",West,Bangalore,Groceries,Phone,3,47010,Net Banking,New,141030
+1859,"Friday, April 26, 2024",North,Delhi,Clothing,Oil,7,35282,Cash,New,246974
+1860,"Friday, May 24, 2024",West,Kolkata,Furniture,Phone,6,43352,Cash,Returning,260112
+1861,"Thursday, April 25, 2024",North,Kolkata,Furniture,Rice,9,6703,UPI,New,60327
+1862,"Thursday, March 7, 2024",West,Chennai,Clothing,T-Shirt,9,30532,UPI,New,274788
+1863,"Wednesday, August 21, 2024",South,Kolkata,Electronics,Laptop,7,25185,Cash,New,176295
+1864,"Saturday, May 4, 2024",South,Chennai,Furniture,Jeans,9,35455,UPI,Returning,319095
+1865,"Wednesday, May 29, 2024",North,Mumbai,Groceries,Table,2,26158,Net Banking,New,52316
+1866,"Thursday, May 23, 2024",North,Hyderabad,Groceries,Table,9,16714,UPI,New,150426
+1867,"Friday, October 18, 2024",East,Hyderabad,Electronics,Table,4,2159,Cash,New,8636
+1868,"Wednesday, May 1, 2024",South,Kolkata,Clothing,Rice,5,25377,Card,Returning,126885
+1869,"Sunday, March 10, 2024",West,Hyderabad,Electronics,Table,10,39935,Cash,Returning,399350
+1870,"Saturday, January 27, 2024",East,Mumbai,Clothing,T-Shirt,2,12470,Cash,New,24940
+1871,"Monday, April 8, 2024",North,Hyderabad,Clothing,Table,7,22463,Cash,New,157241
+1872,"Thursday, April 11, 2024",North,Bangalore,Clothing,Chair,10,5390,Net Banking,New,53900
+1873,"Saturday, August 24, 2024",East,Bangalore,Electronics,Rice,8,24920,Card,New,199360
+1874,"Sunday, July 7, 2024",South,Mumbai,Groceries,T-Shirt,7,45140,Net Banking,Returning,315980
+1875,"Monday, June 3, 2024",North,Chennai,Furniture,Rice,1,37475,Card,Returning,37475
+1876,"Saturday, January 20, 2024",East,Delhi,Clothing,Chair,8,15237,UPI,New,121896
+1877,"Tuesday, December 24, 2024",North,Hyderabad,Groceries,Phone,9,7316,Card,Returning,65844
+1878,"Sunday, January 21, 2024",North,Mumbai,Electronics,Phone,6,15792,UPI,Returning,94752
+1879,"Thursday, October 24, 2024",West,Kolkata,Groceries,T-Shirt,8,33766,Card,Returning,270128
+1880,"Wednesday, June 12, 2024",South,Hyderabad,Electronics,Table,5,31030,Net Banking,Returning,155150
+1881,"Friday, October 11, 2024",South,Chennai,Clothing,Rice,6,29027,Cash,Returning,174162
+1882,"Thursday, July 25, 2024",West,Mumbai,Furniture,Chair,8,12571,Cash,Returning,100568
+1883,"Tuesday, April 9, 2024",East,Hyderabad,Groceries,Jeans,9,21435,Net Banking,New,192915
+1884,"Thursday, January 25, 2024",West,Kolkata,Clothing,Chair,10,30697,UPI,Returning,306970
+1885,"Monday, July 15, 2024",North,Chennai,Electronics,Rice,3,35380,Card,New,106140
+1886,"Saturday, October 26, 2024",East,Bangalore,Furniture,Chair,7,30106,Cash,New,210742
+1887,"Thursday, February 22, 2024",East,Kolkata,Furniture,Table,2,45797,UPI,Returning,91594
+1888,"Wednesday, February 14, 2024",South,Chennai,Furniture,Laptop,3,9681,UPI,New,29043
+1889,"Wednesday, December 11, 2024",North,Hyderabad,Furniture,Jeans,4,12480,Net Banking,Returning,49920
+1890,"Monday, May 13, 2024",South,Mumbai,Furniture,Oil,3,19197,Card,New,57591
+1891,"Tuesday, July 9, 2024",South,Chennai,Groceries,Laptop,8,5449,Net Banking,New,43592
+1892,"Friday, April 26, 2024",South,Mumbai,Groceries,Phone,4,34124,Net Banking,Returning,136496
+1893,"Saturday, May 25, 2024",South,Delhi,Groceries,Oil,6,36034,Cash,New,216204
+1894,"Tuesday, January 9, 2024",North,Hyderabad,Electronics,Table,4,39688,Net Banking,New,158752
+1895,"Tuesday, December 10, 2024",East,Delhi,Furniture,Rice,8,13237,UPI,Returning,105896
+1896,"Friday, July 5, 2024",West,Chennai,Electronics,Chair,8,33009,Cash,Returning,264072
+1897,"Monday, September 16, 2024",South,Mumbai,Groceries,Oil,5,18895,Card,New,94475
+1898,"Thursday, June 13, 2024",North,Mumbai,Electronics,Table,4,24938,Card,Returning,99752
+1899,"Wednesday, February 28, 2024",South,Chennai,Electronics,T-Shirt,6,34531,Cash,Returning,207186
+1900,"Thursday, September 19, 2024",South,Mumbai,Clothing,Laptop,1,25098,Cash,New,25098
+1901,"Friday, August 2, 2024",South,Kolkata,Furniture,Chair,5,3191,Card,Returning,15955
+1902,"Monday, November 25, 2024",North,Delhi,Clothing,Oil,5,1896,Cash,Returning,9480
+1903,"Monday, November 11, 2024",East,Hyderabad,Groceries,Table,5,22186,Net Banking,New,110930
+1904,"Tuesday, June 25, 2024",West,Chennai,Clothing,Table,2,15073,UPI,New,30146
+1905,"Wednesday, July 10, 2024",West,Mumbai,Electronics,Laptop,3,48513,Card,Returning,145539
+1906,"Friday, January 26, 2024",East,Bangalore,Furniture,Phone,10,29589,Net Banking,Returning,295890
+1907,"Thursday, January 18, 2024",East,Mumbai,Furniture,Chair,7,1771,Net Banking,New,12397
+1908,"Sunday, March 31, 2024",East,Delhi,Clothing,Phone,10,9870,UPI,Returning,98700
+1909,"Tuesday, January 2, 2024",East,Kolkata,Furniture,Oil,9,36125,UPI,Returning,325125
+1910,"Wednesday, February 28, 2024",East,Hyderabad,Groceries,Oil,3,10025,Net Banking,Returning,30075
+1911,"Tuesday, June 4, 2024",East,Kolkata,Clothing,Table,10,48220,Card,New,482200
+1912,"Wednesday, February 21, 2024",East,Delhi,Clothing,Chair,7,30309,UPI,New,212163
+1913,"Monday, May 13, 2024",East,Hyderabad,Electronics,Phone,2,25052,UPI,Returning,50104
+1914,"Tuesday, July 2, 2024",East,Kolkata,Groceries,Phone,4,26698,Card,Returning,106792
+1915,"Monday, December 2, 2024",West,Chennai,Groceries,Jeans,7,11438,Net Banking,New,80066
+1916,"Tuesday, August 13, 2024",North,Delhi,Furniture,Chair,10,8873,Net Banking,Returning,88730
+1917,"Friday, December 20, 2024",East,Kolkata,Furniture,Jeans,6,14308,UPI,New,85848
+1918,"Tuesday, June 18, 2024",East,Kolkata,Clothing,Oil,3,26858,Net Banking,Returning,80574
+1919,"Saturday, May 4, 2024",East,Bangalore,Electronics,Laptop,6,41526,Cash,Returning,249156
+1920,"Friday, May 10, 2024",South,Delhi,Clothing,Rice,7,21951,Cash,New,153657
+1921,"Sunday, March 31, 2024",West,Chennai,Electronics,Chair,10,10892,Cash,Returning,108920
+1922,"Monday, March 18, 2024",West,Hyderabad,Furniture,Chair,10,46000,UPI,Returning,460000
+1923,"Monday, April 8, 2024",South,Bangalore,Clothing,Rice,4,24041,UPI,Returning,96164
+1924,"Tuesday, April 30, 2024",North,Mumbai,Furniture,Oil,1,19757,Net Banking,Returning,19757
+1925,"Sunday, November 10, 2024",West,Bangalore,Furniture,Oil,3,35959,UPI,Returning,107877
+1926,"Tuesday, April 2, 2024",West,Bangalore,Furniture,Table,8,45950,Card,Returning,367600
+1927,"Thursday, July 25, 2024",North,Bangalore,Furniture,Phone,7,10740,Cash,Returning,75180
+1928,"Tuesday, August 20, 2024",East,Kolkata,Electronics,Jeans,7,23506,UPI,New,164542
+1929,"Tuesday, June 18, 2024",West,Hyderabad,Electronics,Chair,10,31160,Cash,Returning,311600
+1930,"Wednesday, September 4, 2024",South,Chennai,Electronics,Table,7,10613,Card,Returning,74291
+1931,"Wednesday, July 17, 2024",North,Mumbai,Electronics,Laptop,9,13896,Cash,Returning,125064
+1932,"Monday, July 29, 2024",South,Delhi,Clothing,Phone,8,29795,Net Banking,Returning,238360
+1933,"Wednesday, October 9, 2024",West,Bangalore,Clothing,Chair,1,9937,Cash,Returning,9937
+1934,"Monday, March 4, 2024",East,Delhi,Clothing,T-Shirt,9,43440,Card,New,390960
+1935,"Monday, May 13, 2024",East,Delhi,Furniture,Rice,6,25865,Cash,Returning,155190
+1936,"Saturday, September 28, 2024",South,Mumbai,Clothing,Rice,1,42374,Net Banking,New,42374
+1937,"Friday, May 3, 2024",South,Delhi,Groceries,Chair,5,44362,Cash,New,221810
+1938,"Monday, October 7, 2024",West,Mumbai,Groceries,Laptop,10,14866,Net Banking,Returning,148660
+1939,"Monday, November 4, 2024",West,Mumbai,Furniture,T-Shirt,7,26101,Cash,Returning,182707
+1940,"Saturday, February 24, 2024",North,Mumbai,Furniture,Phone,7,45522,Net Banking,Returning,318654
+1941,"Monday, September 30, 2024",East,Chennai,Furniture,Jeans,5,48921,Net Banking,New,244605
+1942,"Monday, December 16, 2024",West,Chennai,Furniture,Laptop,1,11623,Cash,New,11623
+1943,"Tuesday, February 6, 2024",North,Kolkata,Electronics,Phone,6,3475,Card,New,20850
+1944,"Sunday, April 28, 2024",North,Hyderabad,Groceries,Phone,5,24420,Card,Returning,122100
+1945,"Monday, April 29, 2024",West,Kolkata,Furniture,Chair,5,27966,UPI,Returning,139830
+1946,"Monday, September 23, 2024",East,Kolkata,Furniture,Phone,3,16704,Net Banking,New,50112
+1947,"Thursday, June 6, 2024",North,Mumbai,Groceries,T-Shirt,3,48809,Net Banking,New,146427
+1948,"Saturday, February 17, 2024",East,Hyderabad,Groceries,T-Shirt,8,34494,Card,New,275952
+1949,"Wednesday, October 2, 2024",North,Mumbai,Electronics,Rice,3,23816,Net Banking,Returning,71448
+1950,"Thursday, November 21, 2024",East,Kolkata,Electronics,Rice,10,46417,UPI,New,464170
+1951,"Saturday, January 6, 2024",West,Mumbai,Furniture,Chair,6,16784,Net Banking,Returning,100704
+1952,"Saturday, July 13, 2024",South,Mumbai,Electronics,Chair,6,5708,Cash,Returning,34248
+1953,"Monday, July 1, 2024",East,Kolkata,Clothing,Jeans,7,6621,Net Banking,Returning,46347
+1954,"Friday, August 2, 2024",South,Chennai,Clothing,Phone,9,24259,Card,Returning,218331
+1955,"Thursday, March 14, 2024",East,Bangalore,Clothing,Table,7,47815,UPI,New,334705
+1956,"Wednesday, March 6, 2024",North,Hyderabad,Clothing,Rice,2,28981,Card,New,57962
+1957,"Thursday, March 7, 2024",North,Hyderabad,Clothing,Laptop,4,12889,Card,New,51556
+1958,"Saturday, June 15, 2024",East,Kolkata,Clothing,Phone,3,1082,Net Banking,New,3246
+1959,"Tuesday, January 23, 2024",East,Mumbai,Clothing,Jeans,7,2355,Net Banking,New,16485
+1960,"Friday, November 8, 2024",South,Kolkata,Electronics,Table,10,5291,Cash,New,52910
+1961,"Saturday, March 9, 2024",North,Hyderabad,Clothing,Chair,10,25816,Net Banking,New,258160
+1962,"Friday, March 15, 2024",South,Kolkata,Groceries,Laptop,4,39947,Cash,New,159788
+1963,"Tuesday, October 1, 2024",West,Hyderabad,Clothing,Chair,2,40866,Card,New,81732
+1964,"Saturday, March 16, 2024",South,Delhi,Clothing,T-Shirt,9,43928,Net Banking,Returning,395352
+1965,"Saturday, May 25, 2024",East,Bangalore,Clothing,Table,4,9967,Net Banking,New,39868
+1966,"Friday, May 17, 2024",East,Chennai,Groceries,Table,7,40860,Cash,New,286020
+1967,"Wednesday, November 27, 2024",West,Hyderabad,Electronics,Phone,4,9904,UPI,Returning,39616
+1968,"Saturday, August 17, 2024",South,Kolkata,Clothing,Jeans,9,33736,Net Banking,Returning,303624
+1969,"Saturday, March 2, 2024",North,Kolkata,Electronics,T-Shirt,1,26209,Net Banking,Returning,26209
+1970,"Friday, December 27, 2024",East,Bangalore,Clothing,Rice,4,15151,Cash,New,60604
+1971,"Friday, September 13, 2024",North,Hyderabad,Groceries,T-Shirt,3,47329,Net Banking,Returning,141987
+1972,"Sunday, September 15, 2024",South,Kolkata,Furniture,Rice,1,41697,Cash,Returning,41697
+1973,"Wednesday, January 31, 2024",North,Hyderabad,Furniture,Jeans,5,37997,Net Banking,Returning,189985
+1974,"Tuesday, April 30, 2024",East,Bangalore,Groceries,Oil,2,36310,Cash,Returning,72620
+1975,"Monday, July 15, 2024",South,Chennai,Clothing,Oil,7,18800,Net Banking,New,131600
+1976,"Friday, August 23, 2024",South,Chennai,Clothing,Rice,7,28124,UPI,New,196868
+1977,"Saturday, December 14, 2024",North,Hyderabad,Groceries,T-Shirt,6,49037,UPI,Returning,294222
+1978,"Tuesday, February 20, 2024",South,Kolkata,Clothing,T-Shirt,1,5107,Net Banking,Returning,5107
+1979,"Thursday, March 14, 2024",North,Chennai,Electronics,Laptop,6,28206,Net Banking,Returning,169236
+1980,"Sunday, March 24, 2024",East,Delhi,Electronics,Table,10,21426,Cash,Returning,214260
+1981,"Thursday, March 28, 2024",North,Hyderabad,Electronics,T-Shirt,5,40118,Card,New,200590
+1982,"Wednesday, May 8, 2024",West,Mumbai,Groceries,Phone,5,15726,UPI,New,78630
+1983,"Friday, March 8, 2024",North,Bangalore,Electronics,Jeans,7,17630,Cash,Returning,123410
+1984,"Wednesday, July 3, 2024",South,Mumbai,Clothing,Oil,4,46576,Card,Returning,186304
+1985,"Friday, December 27, 2024",East,Bangalore,Groceries,Oil,4,29617,Cash,New,118468
+1986,"Tuesday, August 13, 2024",South,Delhi,Groceries,Rice,8,27065,Net Banking,New,216520
+1987,"Tuesday, March 12, 2024",East,Hyderabad,Groceries,Chair,4,13797,Cash,New,55188
+1988,"Wednesday, January 24, 2024",West,Chennai,Electronics,Chair,6,44833,Card,Returning,268998
+1989,"Tuesday, January 30, 2024",East,Delhi,Furniture,Oil,1,7888,UPI,New,7888
+1990,"Wednesday, October 2, 2024",East,Delhi,Electronics,Jeans,1,2249,Card,New,2249
+1991,"Sunday, October 20, 2024",North,Kolkata,Electronics,Oil,4,41945,Card,New,167780
+1992,"Friday, July 5, 2024",East,Kolkata,Clothing,T-Shirt,9,44994,Card,Returning,404946
+1993,"Saturday, February 10, 2024",South,Kolkata,Groceries,Laptop,4,32014,Cash,Returning,128056
+1994,"Tuesday, August 6, 2024",West,Mumbai,Clothing,Chair,9,14197,Card,New,127773
+1995,"Saturday, August 3, 2024",East,Mumbai,Clothing,Rice,3,22080,Net Banking,New,66240
+1996,"Thursday, December 5, 2024",West,Kolkata,Groceries,Rice,9,46943,UPI,New,422487
+1997,"Tuesday, July 16, 2024",North,Hyderabad,Electronics,Phone,7,6949,Cash,New,48643
+1998,"Thursday, May 16, 2024",East,Delhi,Clothing,Table,9,47460,Cash,Returning,427140
+1999,"Wednesday, November 6, 2024",East,Hyderabad,Clothing,Chair,7,48530,Card,Returning,339710
+2000,"Thursday, June 6, 2024",South,Kolkata,Clothing,Chair,5,12688,UPI,New,63440
